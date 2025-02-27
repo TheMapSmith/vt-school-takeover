@@ -1,0 +1,4569 @@
+Source: PDF entitled W~Emily Simmons~Education Transformation Proposal- Draft Language~2-25-2025.pdf. The heading says "draft 4.1" and the background watermark indicates UNEDITED DRAFT. Later changes will supersede the text here.
+
+Note: this document was manually edited to remove any strikethroughs to the existing statute and reflects the current draft's included text. Small typographical errors or omissions may be present. Consult the full text for reference.
+
+
+Subject: Education; school districts; education finance; property taxes; Agency of Education; State Board of Education
+
+Statement of purpose of bill as introduced: This bill proposes to transform
+
+Vermont’s education governance, quality, and finance systems. It would
+
+create five school districts to govern the public education system for the entire
+
+State, each governed by a school board and operated by a central office. This
+
+bill also proposes to transform Vermont’s education financing system to a
+
+foundation formula, with a base amount of $13,200.00 per student, in fiscal
+
+year 2025, with additional weights based on student need, school scale, and
+
+district sparsity, developed based on an evidence-based model that has been
+
+adjusted to the Vermont context.
+
+
+
+
+
+An act relating to transforming Vermont’s education governance, quality,
+and finance systems
+
+It is hereby enacted by the General Assembly of the State of Vermont:
+
+* * * Findings and Intent * * *
+
+Sec. 1. FINDINGS; INTENT
+
+The General Assembly finds that:
+
+
+
+
+(1) The study commissioned in 2024 titled “An Evidence-Based
+
+Approach to Identifying an Adequate Education Spending Level in Vermont”
+
+by Allan Odden and Lawrence O. Picus evaluated Vermont education spending
+
+against research-informed best practices. The Evidence-Based Model is
+
+designed to identify an array of staffing and resources that high-performing
+
+schools need to provide every student with robust opportunities to meet college
+
+and career-ready standards.  Performing to those standards would substantially
+
+improve student achievement and reduce demographic related performance
+
+gaps.
+
+(2) The Evidence-Based Model represents an adequate model for the
+
+level of education funding necessary to improve student achievement. It was
+
+developed by experts in education funding with more than 25 years of
+
+experience across the United States in determining how to adequately fund
+
+schools, meaning providing a level of resources that would enable schools to
+
+provide every student with an equal opportunity to learn to high performance
+
+standards. The State has a Constitutional obligation to ensure that all students
+
+are provided a quality education on a reasonably equal basis, without regard to
+
+town of residence. Doing so will require significant change to the current
+
+system of education.
+
+(3) Vermont’s current funding model equalizes school district ability to
+
+raise education taxes, leveling out the distinctions in property wealth among
+
+
+
+
+districts. The current funding system does not provide equalized education
+
+dollars to districts. The choice to spend or not spend equitable amounts of
+
+education funding per student across the state rests with individual districts.
+
+Spending patterns demonstrate that many districts do not utilize the tax
+
+equalization mechanisms to increase spending, even in the districts with the
+
+most demonstrated student need.
+
+(4) Vermont’s current school and school district sizes do not align with
+
+the Evidence-Based Model, and contribute to higher costs that are not fully
+
+addressed by the Model. In order to ensure the Model can be implemented in a
+
+way that improves education quality, the State must be organized into larger
+
+school districts that are responsible for approximately at minimum 3,900
+
+students, a population that represents the minimum to achieve efficiency in
+
+delivering the evidence-based model.
+
+(5) Additionally, larger school districts, consistent with state-level
+
+guidance for school size, average class size, and budgetary priorities, must
+
+examine the appropriate number of schools for the student population,
+
+geography, student need and community desires of the school district.
+
+(6) The intent of the proposed five districts is to charge school boards to
+
+represent a diverse set of student and community needs to promote equitable
+
+budgeting and district policies and to create central offices that provide
+
+
+
+
+specialized resources and support for students and teachers in alignment with
+
+best practices for teaching and learning.
+
+Sec. 2. 16 V.S.A. § 43 is amended to read:
+
+§ 43. FEDERAL EDUCATION AID FUNDS; ADMINISTRATION; LOCAL
+
+EDUCATION AGENCY
+
+(a) The Agency, as sole state agency, may administer federal funds made
+
+available to the State under the Elementary and Secondary Education Act of
+
+1965, Public L. No. 89-10, as amended, and the No Child Left Behind Act of
+
+2001, Public L. No. 107-110. Those funds may be accepted and shall be
+
+distributed and accounted for by the State Treasurer in accordance with that
+
+law and rules and regulations of the United States issued under it if there is
+
+conflict between that law or those rules and regulations and the laws of this
+
+State.
+
+(b) For purposes of distribution of funds under this section, a supervisory
+
+union school district shall be a local education agency as that term is defined in
+
+16	20 U.S.C. § 7801(26).
+
+(c) For purposes of determining student performance and application of
+
+consequences for failure to meet standards and for provision of compensatory
+
+and remedial services pursuant to 20 U.S.C. §§ 6311–6318, a supervisory
+
+union school district shall be a local education agency.
+
+Sec. 3. 16 V.S.A. § 212 is amended to read:
+
+
+
+
+§ 212. SECRETARY’S DUTIES GENERALLY
+
+The Secretary shall articulate a long-term strategic vision for educational
+
+services in the State, through engagement of the education community, shall
+
+execute those policies adopted by the State Board in the legal exercise of its
+
+powers and shall:
+
+(1) Coordinate the educational work of the public schools with higher
+
+education in the State.
+
+(2) Identify the educational goals of the public schools, provide
+
+alternative methods of attaining those goals, and promote education in the
+
+State.
+
+(3) Evaluate the program of instruction in the public schools Establish,
+
+through rulemaking, education and district quality standards to evaluate the
+
+quality of instruction and operations in the public and school choice schools.
+
+(4) Advise the General Assembly concerning proposed laws affecting
+
+the public schools.
+
+(5) Supervise and direct the execution of the laws relating to the public
+
+schools and ensure compliance.
+
+(6) Supervise the expenditure and distribution of all money appropriated
+
+by the State under the provisions of this title for public schools.
+
+(7) Arrange conferences and summer schools for superintendents and
+
+teachers and employ suitable speakers, lecturers, and instructors for the same;
+
+
+
+
+fix the amount of tuition for the instruction; provide for educational gatherings,
+
+institutes, summer schools, and other supplementary educational activities; and
+
+provide for cooperation with the Board of Libraries established by 22 V.S.A.
+
+§ 602 or the State Librarian.
+
+(8) Provide clear,
+
+transparent and high quality information to citizens regarding the condition and
+
+opportunities within the public education system.
+
+(9) Establish requirements for information to be submitted by school
+
+districts, including necessary statistical data and other information and ensure,
+
+ that data are reported in a uniform way. 
+
+(10) Make recommendations to school boards regarding transportation
+
+policies.
+
+(12) Distribute at his or her discretion upon request to approved
+
+independent schools appropriate forms and materials relating to the education
+
+quality standards for elementary and secondary students.
+
+(13) Ensure the provision of services to children and adolescents with a
+
+severe emotional disturbance in coordination with the Departments of Mental
+
+Health, for Children and Families, and of Disabilities, Aging, and Independent
+
+Living pursuant to the provisions of 33 V.S.A. chapter 43.
+
+(14) Annually, communicate to each superintendent a list of information
+
+that a supervisory union, a school board, a school district, a school, or a school
+
+district employee, or a supervisory union employee is required under State or
+
+federal law to make available to the electorate, community members, parents,
+
+or students. It is the intent of this subdivision that the Secretary shall make a
+
+good faith effort to compile a complete list of the information to be made
+
+available. Due to the difficult nature of compiling such a list, it is also the
+
+intent that failure to include relevant information on the list shall not constitute
+
+grounds for an action against the Secretary.
+
+(15) Annually, with the Commissioner of Health, shall jointly inform
+
+superintendents and principals of appropriate practices regarding students with
+
+life-threatening allergies and chronic illnesses; and prepare and distribute
+
+
+
+
+policies, training materials, and school guidelines for managing students with
+
+life-threatening allergies and chronic illnesses, including family
+
+responsibilities, school responsibilities, and student responsibilities.
+
+(16) Annually, convene a meeting of directors of Vermont educator
+
+preparation programs and representatives of school boards, superintendents,
+
+principals, educators, and the Vermont Standards Board to determine subject
+
+and geographic areas in which there is a critical need for educators and to
+
+discuss ways to meet the need.
+
+(17) Encourage and facilitate collaboration among school districts and
+
+supervisory unions to share information and expertise regarding low-incidence
+
+special education needs.
+
+(18) Annually, inform superintendents and principals of regional
+
+resources available to assist schools to provide instruction in cardiopulmonary
+
+resuscitation and the use of automated external defibrillators and provide
+
+updated information to the education community regarding the provision of a
+
+comprehensive health education.
+
+(19) Establish an information clearinghouse and accessible database to
+
+help districts share information about educational programs and practices that
+
+improve student performance. Educational programs and practices include
+
+those designed to create and sustain a safe learning environment.
+
+
+
+
+(20) Develop, in consultation with the Secretary of State, and make
+
+available to school boards sample ballot language for issues that may be
+
+decided by Australian ballot and for which no statutory language exists.
+
+(21) Prepare a budget for the Agency and submit it to the Governor after
+
+review by the State Board.
+
+(22) Annually, prior to September 1, present the Governor’s education
+
+policy priorities to the State Board.
+
+(23) Make regulations governing the attendance and records of
+
+attendance of all students and the deportment of students attending public
+
+schools.
+
+(24) Implement and continually update standards for student
+
+performance in appropriate content areas and at appropriate intervals in the
+
+continuum from kindergarten to grade 12 and methods of assessment to
+
+determine attainment of the standards for student performance. The standards
+
+shall be rigorous, challenging, and designed to prepare students to participate
+
+in and contribute to the democratic process and to compete in the global
+
+marketplace. The standards shall include a standard for reading level
+
+proficiency for students completing grade three.
+
+(25) By rule, determine statewide graduation standards.
+
+(26) Provide oversight for adult education and literacy programs and
+
+perform all the duties and powers prescribed by law pertaining to adult
+
+
+
+
+education and literacy and to act as the State approval agency for educational
+
+institutions conducting programs of adult education and literacy.
+
+(27) Report annually on the condition of education statewide and on a
+
+school district basis. The report shall include information on attainment of
+
+standards for student performance adopted under subdivision (24) of this
+
+section, number and types of complaints of hazing, harassment, or bullying
+
+made pursuant to chapter 9, subchapter 5 of this title and responses to the
+
+complaints, financial resources and expenditures, and community social
+
+indicators. The report shall be organized and presented in a way that is easily
+
+understandable by the general public and that enables each school, school
+
+district, and supervisory union to determine its strengths and weaknesses. To
+
+the extent consistent with State and federal privacy laws and regulations, data
+
+on hazing, harassment, or bullying incidents shall be disaggregated by incident
+
+type, including disaggregation by ethnic groups, racial groups, religious
+
+groups, gender, sexual orientation, gender identity, disability status, and
+
+English language learner status. The Secretary shall use the information in the
+
+report to determine whether students in each school, school district, and
+
+supervisory union are provided educational opportunities substantially equal to
+
+those provided in other schools, school districts, and supervisory unions
+
+pursuant to subsection 165(b) of this title.
+
+
+
+
+(28) Ensure that Vermont’s students, including students enrolled in
+
+secondary career technical education, have access to a substantially equal
+
+educational opportunity by developing a system to evaluate the equalizing
+
+effects of Vermont’s education finance system and education quality standards
+
+under section 165 of this title.
+
+Sec. 4. 16 V.S.A. § 164 is amended to read:
+
+§ 164. STATE BOARD; GENERAL POWERS AND DUTIES
+
+The State Board shall engage local school board members 
+and, consistent with the provisions of this title, its own
+
+rules, and rules adopted by the Secretary, 
+
+contribute to  a long-term strategic vision articulated by the Secretary of
+
+Education for the delivery of educational services in Vermont; 
+and act in accordance
+
+with legislative mandates, including the adoption of rules and executing special
+
+assignments. In addition to other specified duties, the Board shall:
+
+(1) Establish such advisory commissions as in the judgment of the
+
+Board will be of assistance to it in carrying out its duties. Advisory
+
+commission members shall serve with or without compensation at the
+
+discretion of the Board but shall receive actual expenses incurred in pursuance
+
+of their duties.
+
+
+
+
+(2) Have the authority to enter into agreements with school districts,
+
+municipalities, states, the United States, foundations, agencies, or individuals
+
+for service, educational programs, or research projects.
+
+(3) Examine and determine all appeals that by law are made to it and
+
+prescribe rules of practice in respect thereto, not inconsistent with law.
+
+(4) [Repealed.]
+
+(5) [Repealed.]
+
+
+(7) Adopt rules pursuant to 3 V.S.A. chapter 25 to carry out the powers
+
+and duties of the Board as directed by the General Assembly, within the
+
+limitations of legislative intent.
+
+
+(20) Pursuant to section 806g of this title, constitute the State Council
+
+for the Interstate Compact on Educational Opportunity for Military Children
+
+and appoint to the Council a Compact Commissioner and Military Family
+
+Education Liaison, who may be the same person. The Board may appoint
+
+additional members.
+
+(21) Report annually to the Governor and the General Assembly on the
+
+progress the Board has made in the execution of its enumerated duties 
+
+(22) Administer a statewide contract to provide annual training to school
+
+board members on educational leadership and the roles and responsibilities of
+
+the school district board. The State Board will select an appropriate training
+
+vendor to speak to the Vermont context and to be informed by research-based
+
+best practices.
+
+
+
+
+(23) Annually, review each school district’s adopted equity budget
+
+policy, and coordinate with school districts on the content and implementation
+
+considerations for those policies.
+
+(24) Annually, review the outcome of the District Quality Standards
+
+evaluation of school board proficiency published by the Agency of Education.
+
+The State Board shall convene public discussions with each school district to
+
+identify areas for improvement, and to define the role(s) of the school board in
+
+improving districtwide practices.
+
+Sec. 5. 16 V.S.A. § 165 is amended as follows:
+
+§ 165. EDUCATION QUALITY STANDARDS; EQUAL EDUCATIONAL
+
+OPPORTUNITIES; 
+
+(a) In order to carry out Vermont’s policy that all Vermont children will be
+
+afforded educational opportunities that are substantially equal in quality, each
+
+Vermont public school, including each career technical center, shall meet the
+
+following education quality standards:
+
+(1) The school, through a process including parents, teachers, students,
+
+and community members, develops, implements, and annually updates a
+
+continuous improvement plan to improve student performance within the
+
+school. The plan shall include goals and objectives for improved student
+
+learning and educational strategies and activities to achieve its goals. The plan
+
+
+
+
+shall also address the effectiveness of efforts made since the previous
+
+continuous improvement plan to ensure the school maintains a safe, orderly,
+
+civil, and positive learning environment that is free from harassment, hazing,
+
+and bullying. The school shall assess student performance under the plan
+
+using a method or methods of assessment developed under subdivision 164(9)
+
+of this title.
+
+(2) The school, at least annually, reports student performance results to
+
+community members in a format selected by the school board. In the case of a
+
+regional career technical center, the community means the school districts in
+
+the service region. The school report shall include:
+
+(A) Information indicating progress toward meeting standards from
+
+the most recent measure taken.
+
+(B) [Repealed.]
+
+(C) Information indicating progress toward meeting the goals of an
+
+annual continuous improvement plan.
+
+(D) Any other statistical information about the school or community
+
+that the school board deems necessary to place student performance results in
+
+context.
+
+(E)–(G) [Repealed.]
+
+(H) A description of how the school ensures that each student
+
+receives appropriate career counseling and program information regarding
+
+
+
+
+availability of education and apprenticeship program offerings at career
+
+technical centers.
+
+(I) [Repealed.]
+
+(J) If the school is a secondary school, information and supporting
+
+data presented in a manner designed to protect student confidentiality on the
+
+dropout and graduation rates.
+
+(K) Data provided by the Secretary that enable a comparison with
+
+other schools, or school districts if school level data are not available, for cost-
+
+effectiveness. The Secretary shall establish which data are to be included
+
+pursuant to this subdivision and, notwithstanding that the other elements of the
+
+report are to be presented in a format selected by the school board, shall
+
+develop a common format to be used by each school in presenting the data to
+
+community members. The Secretary shall provide the most recent data
+
+available to each school no later than October 1 of each year.  Data to be
+
+presented include student-to-teacher ratio, administrator-to-student ratio,
+
+administrator-to-teacher ratio, and cost per pupil.
+
+(3) The school substantially meets standards adopted by rule of the State
+
+Board Agency of Education regarding conditions, practices, and resources of
+
+schools. The standards shall address those aspects of the following that are
+
+most closely associated with improving student performance:
+
+
+
+
+(A) school leadership, staffing, average minimum class sizes, and
+
+support services;
+
+(i) the standards governing average minimum class size shall
+
+require that for grades four through 12 average class sizes to be equivalent to
+
+teacher to student ratio of 1:25 and for grades kindergarten through three shall
+
+be equivalent to teacher to student ratios of 15:1;
+
+(B) instructional practices and curriculum leadership, content, and
+
+coordination;
+
+(C) educational materials and school facilities;
+
+(D) access to current technology.
+
+(4) The school shall provide for and the staff shall use needs-based
+
+professional development designed to improve the quality of education
+
+provided to the students and directly connected to standards for student
+
+performance established by the State Board Agency of Education and any
+
+other educational performance goals established by the school board.
+
+(5) The school uses staff evaluation to advance educational performance
+
+objectives.
+
+(6) The school ensures that students receive appropriate career
+
+counseling and program information regarding the availability of education
+
+and apprenticeship program offerings at career technical centers. In addition,
+
+
+
+
+the school, if it is a secondary school, offers a genuine opportunity to access
+
+career technical education programs.
+
+(7) The school ensures that students are furnished educational services
+
+in accordance with any State or federal entitlements and in a nondiscriminatory
+
+manner.
+
+(8) The school maintains a safe, orderly, civil, and positive learning
+
+environment that is free from hazing, harassment, and bullying, and is based on
+
+sound instructional and classroom management practices and clear discipline
+
+policies that are consistently and effectively enforced.
+
+(b) Annually, the Secretary shall determine whether students in each
+
+Vermont public school are provided educational opportunities substantially
+
+equal to those provided in other public schools.  If the Secretary determines
+
+that a school is not meeting the education quality standards listed in subsection
+
+(a) of this section or that the school is making insufficient progress in
+
+improving student performance in relation to the standards for student
+
+performance set forth in subdivision 164(9) of this title, he or she shall
+
+describe in writing actions that a district must take in order to meet either or
+
+both sets of standards and shall provide technical assistance to the school. If
+
+the school fails to meet the standards or make sufficient progress within two
+
+years of the determination, the Secretary shall recommend to the State Board
+
+one or more of the following actions:
+
+
+
+
+(1) the Agency continue to provide technical assistance for one more
+
+cycle of review;
+
+(2) the State Board adjust supervisory union boundaries or
+
+responsibilities of the superintendency pursuant to section 242 of this title;
+
+(3) the Secretary assume administrative control of an individual school,
+
+or school district, or supervisory union, including budgetary control to ensure
+
+sound financial practices, only to the extent necessary to correct deficiencies;
+
+(4) the State Board close an individual school or schools and require that
+
+the school district pay tuition to another public school or an approved
+
+independent school pursuant to chapter 21 of this title assign students to a
+
+different school operated by the district; or
+
+(5) the State Board require two or more school districts to consolidate
+
+their governance structures.
+
+(c) The State Board, after offering the school board an opportunity for a
+
+hearing, shall either dismiss the Secretary’s recommendation or order that one
+
+or more of the actions listed in subsection (b) of this section be taken. The
+
+action ordered by the State Board shall be the least intrusive consistent with the
+
+need to provide students attending the school substantially equal educational
+
+opportunities. A school board aggrieved by an order of the State Board may
+
+appeal the order in accordance with the Rules of Civil Procedure.
+
+
+
+
+(d) Nothing in this section shall be construed to entitle any student to
+
+educational programs or services identical to those received by students in the
+
+same or any other school district. Further, nothing in this section shall create a
+
+private right of action.
+
+(e) If the Secretary determines at any time that the failure of a school to
+
+meet the education quality standards listed in subsection (a) of this section is
+
+severe or pervasive, potentially results in physical or emotional harm to
+
+students or significant deprivation of equal education opportunities, and the
+
+school has either unreasonably refused to remedy the problem or its efforts
+
+have proved ineffective, he or she may recommend to the State Board one or
+
+more of the actions listed in subsection (b) of this section.  The State Board
+
+shall then follow the procedure of subsection (c) of this section.
+
+
+(g) In addition to the education quality standards provided in subsection (a)
+
+of this section, each Vermont school district shall meet the school district
+
+quality standards adopted by rule of the Agency of Education regarding the
+
+business, facilities management, and governance practices of school districts.
+
+These standards shall include a process for school district quality reviews to be
+
+conducted by the Agency of Education. Annually, the Secretary shall publish
+
+metrics regarding the outcomes of school district quality reviews.
+
+Sec. 6. 16 V.S.A. § 166 is amended to read:
+
+§ 166. APPROVED AND RECOGNIZED INDEPENDENT SCHOOLS;
+
+INDEPENDENT SCHOOL SERVING AS SCHOOL CHOICE
+
+SCHOOL FOR GRADES 9–12
+
+(a) Authority. An independent school may operate and provide elementary
+
+education or secondary education if it is recognized or
+
+designated as a school choice school as set forth in this section.
+
+
+(3) A recognized independent school shall
+
+provide to the parent or guardian responsible for each of its students, prior to
+
+accepting any money for a student, an accurate statement in writing of its
+
+status under this section and a copy of this section. Failure to comply with this
+
+provision may create a permissible inference of false advertising in violation of
+
+18	13 V.S.A. § 2005.
+
+(4) Each school choice school designated by a
+
+school district pursuant to school shall provide to the Secretary on October 1 of
+
+each year the names, genders, dates of birth, and addresses of its enrolled
+
+
+
+
+students. Within seven days of the termination of a student’s enrollment, the
+
+school choice school shall notify the Secretary of the name and address of the
+
+student. The Secretary shall notify the appropriate school officials as provided
+
+in section 1126 of this title.
+
+
+(7) Approval for independent residential schools under this subsection is
+
+also contingent upon proof of the school’s satisfactory completion of an annual
+
+fire safety inspection by the Department of Public Safety or its designee
+
+pursuant to 20 V.S.A. chapter 173, subchapter 2. A certificate executed by the
+
+inspecting entity, declaring satisfactory completion of the inspection and
+
+identifying the date by which a new inspection must occur, shall be posted at
+
+the school in a public location. The school shall provide a copy of the
+
+certificate to the Secretary of Education after each annual inspection. The
+
+school shall pay the actual cost of the inspection unless waived or reduced by
+
+the inspecting entity.
+
+
+
+State Board.
+
+(iii) If the State Board concludes that an approved independent
+
+
+this section.
+
+(iv) In considering whether an independent school lacks financial
+
+School Choice Schools. An independent school may be designated as a
+
+School Choice School to serve grades 9–12 by the school district in which it is
+
+geographically located. In order to be eligible for designation, an independent
+
+school shall be certified by th Agency of Education as meeting the following
+
+criteria:
+
+(1) use of state standardized assessments,
+
+(2) implementation of minimum state graduation requirements,
+
+(3) the provision of special education services to all enrolled students to
+
+the same extent as would be required of a public school operated by a school
+
+district,
+
+(4) completion of an annual single-audit by a certified public
+
+accountant, which shall be submitted to the Agency of Education,
+
+(5) maintenance of minimum financial reserves, in an amount to be
+
+established by rules adopted by the Agency of Education,
+
+(6) Compliance with the school choice school requirements of the
+
+Education Quality Standards as defined by the Secretary through rule making,
+
+(7) Compliance with school safety requirements in chapter 33 of this
+
+title,
+
+(8) Adherence in all policies and operations with nondiscrimination
+
+requirements of Title 9 chapter 139,
+
+
+
+
+(9) Adoption of harassment, hazing, and bullying prevention policies
+
+required by chapter 9, subchapter 5 of this title; except that the board shall
+
+follow its own procedures for adopting policy,
+
+(10) The school annually announces a capacity for incoming students to
+
+attend on a publicly funded basis in the following school year,
+
+(11) The school was an approved independent school on July 1, 2025,
+
+(12) The school’s enrollment is at least 51 percent comprised of students
+
+attending on a district-funded tuition basis as of July 1, 2025,
+
+(13) The school has a policy to govern a nondiscriminatory lottery
+
+system for determining which students may enroll in the school on a publicly
+
+funded basis when student interest exceeds capacity.
+
+(14) The school offers due process protections prior to suspending or
+
+expelling a student attending on a publicly funded basis that are at least as
+
+comprehensive as those required of public schools in section 1162 of this title.
+
+(c) Recognized independent schools. Upon filing an enrollment notice, a
+
+recognized independent school may provide elementary or secondary
+
+education in Vermont. The enrollment notice shall be on a form provided by
+
+the Secretary and shall be filed with the Secretary no earlier than three months
+
+before the beginning of the school year for the public schools in the town in
+
+which the applicant proposes to locate.
+
+
+
+
+(1) The enrollment notice shall contain the following information and
+
+assurances:
+
+(A) a statement that the school will be in session an amount of time
+
+substantially equivalent to that required for public schools;
+
+(B) a detailed description or outline of the minimum course of study
+
+for each grade level the school offers and how the annual assessment of each
+
+student will be performed; and
+
+(C) assurances that:
+
+(i) the school will prepare and maintain attendance records for
+
+each student enrolled or regularly attending classes;
+
+(ii) at least once each year, the school will assess each student’s
+
+progress, and will maintain records of that assessment, and present the result of
+
+that assessment to each student’s parent or guardian;
+
+(iii) the school’s educational program will include the minimum
+
+course of study set forth in section 906 of this title;
+
+(iv) the school will have teachers and materials sufficient to carry
+
+out the school’s educational program; and
+
+(v) the school will meet such State and federal laws and
+
+regulations concerning its physical facilities and health and safety matters as
+
+are applicable to recognized independent schools.
+
+
+
+
+(2) If the Secretary has information that creates significant doubt about
+
+whether the school would be able to meet the requirements set forth in this
+
+subsection (c), the Secretary may call a hearing. At the hearing, the school
+
+shall establish that it can meet the requirements for recognized independent
+
+schools. Failure to do so shall result in a finding by the Secretary that the
+
+school must take specified action to come into compliance within a specified
+
+time frame or the children enrolled must attend another recognized
+
+independent school, a public school, an approved independent school, or a
+
+home study program, or be declared truant unless absent with legal excuse.
+
+(3) A recognized independent school shall provide to each student’s
+
+parent or guardian a copy of its currently filed statement of objectives and a
+
+copy of this section. The copy shall be provided when the student enrolls or
+
+before September 1, whichever comes later. Failure to comply with this
+
+subsection may create a permissible inference of false advertising in violation
+
+15	of 13 V.S.A. § 2005.
+
+(4) A recognized independent school shall renew its enrollment notice
+
+annually. An independent school shall be recognized for a period not to
+
+exceed five years by the Secretary without need for filing an annual enrollment
+
+notice if:
+
+(A) it is recognized by an organization approved by the State Board
+
+for the purpose of recognizing such school; or
+
+
+
+
+(B) it is accredited by a private, state, or regional agency approved by
+
+the State Board for accrediting purposes; provided, however, nothing in this
+
+subdivision (4) shall be construed to prohibit the Secretary from initiating a
+
+hearing under this subsection (c).
+
+(5) If the Secretary has information that creates significant doubt about
+
+whether the school, once in operation, is meeting the requirements for
+
+recognized independent schools, the Secretary may call a hearing. At the
+
+hearing, the school shall establish that it has met the requirements for
+
+recognized independent schools. Failure to do so shall result in a finding by
+
+the Secretary that:
+
+(A) the school may not be in operation for the remainder of the
+
+school year and that the children are truant unless absent with legal excuse or
+
+enrolled in a public school, an independent school, another recognized
+
+independent school, or a home study program; or
+
+(B) the school must take specified action to come into compliance
+
+within a specified time frame or the school will not be permitted to operate for
+
+the remainder of the school year.
+
+(6) Each recognized independent school shall provide to the Secretary
+
+on October 1 of each year the names, genders, dates of birth, and addresses of
+
+its enrolled students. Within seven days of the termination of a student’s
+
+enrollment, the recognized independent school shall notify the Secretary of the
+
+
+
+
+name and address of the student. The Secretary shall notify the appropriate
+
+school officials as provided in section 1126 of this title.
+
+(7) After the filing of the enrollment notice or at a hearing, if the school
+
+is unable to comply with any specific requirements due to deep religious
+
+conviction shared by an organized group, the Secretary may waive such
+
+requirements if he or she determines that the educational purposes of this
+
+subsection are being or will be substantially met.
+
+
+
+
+
+(e) Harassment, hazing, and bullying policies. The board of trustees of 
+a recognized independent school operating in Vermont shall adopt
+
+harassment, hazing, and bullying prevention policies; establish procedures for
+
+dealing with harassment, hazing, and bullying of students; and provide notice
+
+of these. The provisions of chapter 9, subchapter 5 of this title for public
+
+schools shall apply to this subsection, except that the board shall follow its
+
+own procedures for adopting policy.
+
+
+Sec. 7. AGENCY OF EDUCATION STUDY OF COOPERATIVE
+
+EDUCATION SERVICES AND THERAPEUTIC PROGRAMS,
+
+STATEWIDE SALARY SCHEDULE; REPORT
+
+
+
+
+The Agency of Education shall convene superintendents, directors of
+
+therapeutic independent schools, special education directors and other experts
+
+in the opinion of the Agency to study the need for cooperative education
+
+services and the oversight of therapeutic schools within the governance
+
+framework created by this Act.  The Agency shall submit a summary of its
+
+findings and recommended legislative language to the House Committee on
+
+Education and the Senate Committee on Education on or before December 15,
+
+2025. The Agency shall also submit recommendations for legislative language
+
+to implement a statewide salary schedule with its report.
+
+Sec. 8. 16 V.S.A. § 241 is amended to read:
+
+§ 241. APPOINTMENT
+
+(a) Each supervisory union board, with the advice of the Secretary, may
+
+shall employ a superintendent of schools.
+
+(b) A superintendent shall be employed by written contract for a term not
+
+to exceed five years nor less than one year and shall work the number of hours
+
+required by contract, performing the duties designated in the contract or
+
+assigned by the board. A superintendent of schools may be dismissed for
+
+cause or as specified in the contract of employment.
+
+(c) Not later than May 15 of a year in which an incumbent superintendent’s
+
+contract of employment expires, the supervisory union board shall meet to
+
+renew or act otherwise upon the superintendent’s contract. 
+
+
+Sec. 9.  16 V.S.A. § 242 is amended to read:
+
+§ 242.  DUTIES OF SUPERINTENDENTS
+
+The superintendent shall be the chief executive officer for the 
+school board and shall:
+
+(1) Carry out the policies adopted by the school boards relating to the
+
+educational or business affairs of the school district and
+
+develop procedures to do so.
+
+(2) Prepare, for adoption by the school board, plans to achieve
+
+the educational goals and objectives established by the school district.
+
+(3)(A) Nominate a candidate for employment by the school district 
+if the vacant position requires a licensed employee;
+
+provided, if the board declines to hire a candidate, then the
+
+superintendent shall nominate a new candidate;
+
+(B) select nonlicensed employees to be employed by the district or
+
+and
+
+
+
+
+(C) dismiss licensed and nonlicensed employees of a school district
+
+as necessary, subject to all procedural and other
+
+protections provided by contract, collective bargaining agreement, or provision
+
+of State and federal law.
+
+(4)(A) Provide data and information required by the Secretary and by
+
+using a format approved by the Secretary to:
+
+(i) Report budgetary data for the subsequent school year and fiscal
+
+year.
+
+(ii) Report all financial operations within the supervisory union
+
+district to the Secretary and State Board for the preceding school year on or
+
+before August 15 of each year.
+
+(iii) Report all financial operations for each member the school
+
+district to the Secretary and State Board for the preceding school year on or
+
+before August 15 of each year.
+
+
+
+
+
+(5) Work with the school boards to 
+implement policies regarding minimum average class sizes 
+consistent with section 165 of
+
+this title and rules adopted by the Agency.
+.
+
+(6) Arrange for the provision of the professional training required in
+
+subsection 561(b) of this title.
+
+(7) Provide for the general supervision of the public schools in the
+
+district.
+
+* * * School Governance * * *
+
+Sec. 10. REPEAL
+
+16 V.S.A. chapter 7 (supervisory unions) is repealed on July 1, 2027.
+
+Sec. 11. NEW UNION SCHOOL DISTRICTS
+
+The Vermont school districts and supervisory unions then in effect shall be
+
+dissolved on July 1, 2027, and succeeded by five unified union school districts.
+
+Not later than 30 days following the enactment of this section, the Secretary of
+
+Education shall certify the designation of the newly created school districts
+
+pursuant to section 713 of this Title.
+
+Sec. 12. 16 V.S.A. § 2 is added to read:
+
+§ 2. MEMBERSHIP OF FIVE UNIFIED UNION SCHOOL DISTRICTS
+
+
+
+
+As of July 1, 2027:
+
+(1) The member districts of the Barre SD, Central Vermont SU,
+
+Harwood UUSD, Lamoille North MUUSD, Lamoille South UUSD,
+
+Montpelier Roxbury School District, Orange Southwest SU, Orleans
+
+Southwest SU, Orleans Southwest SU, Washington Central School District,
+
+White River Valley School District shall constitute the Winooski Valley
+
+UUSD.
+
+(2) The member districts of the Bennington-Rutland SU, Greater
+
+Rutland County SU, Mill River UUSD, Rutland City SD, Rutland Northeast
+
+UUSD, Slate Valley UUSD, Southwest Vermont UUSD, Southwest Tech
+
+Center shall constitute the Southwest Vermont UUSD.
+
+(3) The member districts of Hartford SD, Mountain Views UUSD, River
+
+Valley Tech Center, Springfield SD, Two Rivers SD, Windham Central SU,
+
+Windham Northeast SU, Windham Southeast SU, Windham Southwest SU,
+
+Windsor Southeast SU shall constitute the Southeast Vermont UUSD.
+
+(4) The member districts of Caledonia Central SU, Essex North SU,
+
+Kingdom East UUSD, North Country SU, Orange East SU, Orleans Central
+
+UUSD, St. Johnsbury SD shall constitute the Northeast Vermont UUSD.
+
+(5) The Addison Central SD, the Addison Norwest SD, Burlington SD,
+
+Champlain Valley SD, Colchester SD, Essex Westford ECUUSD, Franklin
+
+Northeast SU, Franklin West SU, Grand Isle SU, Lincoln School District,
+
+
+
+
+Maple Run SD, Milton SD, Franklin Northwest SU, Mount Mansfield SD,
+
+Patricia Hanaford Tech Center, South Burlington SD, Winooski SD shall
+
+constitute the Champlain Valley UUSD.
+
+(effective on passage)
+
+Sec. 13. 16 V.S.A. § 563 is amended to read:
+
+§ 563. POWERS OF SCHOOL BOARDS; FORM OF VOTE
+
+The school board of a school district, in addition to other duties and
+
+authority specifically assigned by law:
+
+(1) Shall determine the educational policies of the school district. Board
+
+policies shall be of general application to the district and shall be in writing,
+
+codified, and made available to the public. Board policies shall be adopted at
+
+regular or special school board meetings. A school board shall give public
+
+notice of its intent to adopt a board policy, stating the substance of the
+
+proposed policy, at least ten days prior to its adoption. A school board may
+
+also approve or disapprove rules and regulations proposed by the principal or
+
+superintendent for the conduct and management of public schools in the
+
+district.
+
+(2) May take any action that is required for the sound administration of
+
+the school district. The Secretary, with the advice of the Attorney General,
+
+upon application of a school board, shall decide whether any action
+
+contemplated or taken by a school board under this subdivision is required for
+
+
+
+
+the sound administration of the district and is proper under this subdivision.
+
+The Secretary’s decision shall be final.
+
+(3) Shall have the possession, care, control, and management of the
+
+property of the school district, subject to the authority vested in the electorate
+
+or any school district official.
+
+(4) [Repealed.]
+
+(5) Shall keep the school buildings and grounds in good repair, suitably
+
+equipped, insured, and in safe and sanitary condition at all times. The school
+
+board shall regulate or prohibit firearms or other dangerous or deadly weapons
+
+on school premises. At a minimum, a school board shall adopt and implement
+
+a policy at least consistent with section 1166 of this title and 13 V.S.A. § 4004,
+
+relating to a student who brings a firearm to or possesses a firearm at school.
+
+(6) Shall have discretion to furnish instruction to students who have
+
+completed a secondary education and to administer early educational
+
+programs.
+
+(7) May relocate or discontinue use of a schoolhouse or facility, subject
+
+to the provisions of sections 821 and 822 of this title.
+
+(8) Shall establish and maintain a system for receipt, deposit,
+
+disbursement, accounting, control, and reporting procedures that meets the
+
+criteria established by the Agency
+
+pursuant to section 165(g) of this title and that ensures that all payments are
+
+
+
+
+lawful and in accordance with a budget adopted or amended by the school
+
+board. The school board may authorize a subcommittee, the superintendent of
+
+schools, or a designated employee of the school board to examine claims
+
+against the district for school expenses and draw orders for the payment of
+
+those claims. Such orders shall state definitely the purpose for which they are
+
+drawn and shall serve as full authority to the treasurer to make such payments.
+
+It shall be lawful for a school board to submit to its treasurer a certified copy of
+
+those portions of the board minutes, properly signed by the clerk and chair, or
+
+a majority of the board, showing to whom and for what purpose each payment
+
+is to be made by the treasurer, and such certified copy shall serve as full
+
+authority to the treasurer to make the payments as thus approved.
+
+(9) Shall establish with the advice and consent of the Auditor of
+
+Accounts and the Secretary a system of accounts for the proper control and
+
+reporting of school district finances and for stating the annual financial
+
+condition of the school district.
+
+.
+
+(11)(A) Shall prepare and distribute publish annually a proposed budget
+
+for the next school year according to such major categories as may from time
+
+to time be prescribed by the Secretary. The board shall hold no fewer than two
+
+informational meetings at which the public can comment on the proposed
+
+budget.
+
+(B) [Repealed.]
+
+
+
+
+
+
+The 	District estimates that this proposed budget, if approved, will
+
+result in per pupil education spending of $ 	, which is 	%
+
+
+(12) Shall employ such persons as may be required to carry out the work
+
+of the school district pursuant to the provisions of subdivision 242(3) of this
+
+title.
+
+(13) [Repealed.]
+
+(14) Shall provide, at the expense of the district, subject to the approval
+
+of the superintendent, all text books, learning materials, equipment, and
+
+supplies.
+
+(15) Shall exercise the general powers given to a legislative branch of a
+
+municipality.
+
+(16) May execute contracts on behalf of the school district, including
+
+contracts providing for binding arbitration, by its chair or any person
+
+designated whose appointment is recorded in the minutes of the board.
+
+16	(17)(18) [Repealed.]
+
+(19) Shall allow any high school student who meets the academic
+
+requirements of the high school to graduate and receive a diploma in less than
+
+four years.
+
+(20) Shall establish policies and procedures designed to avoid the
+
+appearance of board member conflict of interest.
+
+
+
+
+(21) Shall have the authority to engage in short-term borrowing to cover
+
+the costs of those portions of projects approved by the State Board and that
+
+will be reimbursed by the State Board under sections 3447–3456 of this title
+
+but which payments will be delayed.  However, the board shall borrow under
+
+this subdivision only amounts that it would receive if the State Board could
+
+fund its obligation and may borrow no earlier than the time it would have
+
+received the funds. The State shall not pay for costs of borrowing funds under
+
+this subdivision.
+
+(22) May apply for grants and may accept and expend grants or gifts.
+
+The board shall include, in its annual report, a description of all grants or gifts
+
+accepted during the year and associated expenditures.
+
+(23) May, at the expense of the district, present informational materials
+
+to the electorate on any matter to be voted. However, such materials shall be
+
+limited to those that are reasonably designed to inform, educate, and explain to
+
+the electorate the board’s position on the matter.
+
+(24) Shall adopt a policy that, in accordance with rules adopted by the
+
+State Board of Education Agency of Education, will integrate home study
+
+students into its schools through enrollment in courses, participation in
+
+cocurricular and extracurricular activities, and use of facilities.
+
+(25) Shall 
+award a high school diploma to any Vermont
+
+
+
+
+resident who served in the military in World War II, the Korean War, or during
+
+the Vietnam era, was honorably separated from active federal military service,
+
+and does not hold a high school diploma. The Agency of
+
+Education shall develop and make available an application form for veterans
+
+who wish to request a high school diploma.
+
+(26) [Repealed.]
+
+(27) Annually, shall inform each secondary student and the student’s
+
+parents or guardians of the right to opt out of the federal requirement that
+
+student contact information be provided to military recruiters or institutions of
+
+higher education pursuant to 20 U.S.C. § 7908(a). A school board shall enable
+
+the secondary student and the student’s parents or guardians to disallow
+
+provision of student contact information to either military recruiters or
+
+institutions of higher education, while allowing provision of information to the
+
+other. For purposes of this subdivision, “secondary student” means a student
+
+15	in grade 9, 10, 11, or 12.
+
+(28) Annually, shall inform students and their parents or guardians of
+
+their options for school choice under applicable laws or policy.
+
+(29) Shall assign an employee to annually:
+
+(A) inform parents of students with life-threatening allergies and life-
+
+threatening chronic illnesses of applicable provisions of Section 504 of the
+
+
+
+
+Rehabilitation Act of 1973 and other applicable federal statutes, State statutes,
+
+federal regulations, and State rules;
+
+(B) inform appropriate school staff of their responsibilities; and
+
+(C) provide necessary training to carry out these responsibilities.
+
+(30) May make available school facilities and equipment for specified
+
+public purposes if such purposes appear, in the judgment of the board, to be in
+
+the best interests of the district and are an efficient, economical, and
+
+appropriate use of the facilities and equipment.
+
+(31) Subject to the requirements of section 571 of this title, may enter
+
+into contracts with other school boards to provide joint programs, services,
+
+facilities, and professional or other staff.
+
+(32) May enter into a contract or contracts with a school offering a
+
+distance learning program that is approved by one or more accrediting agencies
+
+recognized by the U.S. Department of Education or is approved in Vermont
+
+pursuant to subdivision 166(b)(6) of this title.
+
+(33) Establish a district-wide curriculum. The curriculum shall meet the
+
+requirements adopted by the Agency of Education under subdivision
+
+165(a)(3)(B) of this title.
+
+(34) Assist each school in the district to follow the curriculum as
+
+adopted under the requirements of the Agency of Education pursuant to
+
+subdivision 165(a)(3)(B) of this title.
+
+
+
+
+(35) In accordance with criteria established by the Agency of Education
+
+establish and implement a plan for receiving and disbursing federal and State
+
+funds distributed by the Agency of Education, including funds awarded under
+
+P.L. 89-10, the Elementary and Secondary Education Act of 1965 as amended.
+
+(36) Provide professional development programs or arrange for the
+
+provision of them, or both, for teachers, administrators, and staff within the
+
+district, which may include programs offered solely to one school or other
+
+component of the entire district to meet the specific needs or interests of that
+
+component; a district has the discretion to provide financial assistance outside
+
+the negotiated agreements for teachers’ professional development activities.
+
+(37)  Provide special education services to resident students and
+
+compensatory and remedial services and provide or coordinate the provision of
+
+other educational services as directed by the Agency.
+
+(38) Employ a person or persons qualified to provide financial and
+
+student data management services.
+
+(39) Provide the following services in a manner that promotes the
+
+efficient use of financial and human resources:
+
+(A) manage a system to procure and distribute goods and operational
+
+services;
+
+(B) manage construction projects;
+
+
+
+
+(C) provide financial and student data management services,
+
+including grant writing and fundraising as requested;
+
+(D) negotiate with teachers and administrators, pursuant to chapter 57
+
+of this title, and with other school personnel, pursuant to 21 V.S.A. chapter 22
+
+(E) provide transportation or arrange for the provision of
+
+transportation, or both, to schools within the district, consistent with rules
+
+adopted by the Agency of Education;
+
+(F) provide human resources management support.
+
+(40) Adopt district-wide truancy policies consistent with the model
+
+protocols developed by the Secretary.
+
+* * * Transition to New Districts * * *
+
+Sec. 14. 16 V.S.A. chapter 11 is amended to read:
+
+13
+Chapter 11.
+Union School Districts
+14
+
+***
+15
+§ 702. DEFINITIONS
+
+16
+
+***
+3) “Forming districts” means all school districts, including union school
+
+districts, that are located within the geographical boundaries of a proposed or
+
+voter-approved union school district, or districts that are named by the General
+
+Assembly to be merged into a new union district on July 1, 2027, prior to the
+
+
+
+
+operational date of the union school district, which will potentially merge or
+
+have merged to form the new union school district.
+
+3	***
+
+15) “New Union District” shall refer to a school district created by the
+
+General Assembly pursuant to [this Act] which shall assume operations on July
+
+6	1, 2027.
+
+7	***
+
+ATTENDANCE IN ACADEMIC YEAR 2027–2028
+
+
+
+In academic year 2027–2028, each student in the New Union District will
+
+attend the school that a student residing in that town would have attended in
+
+academic year 2026–2027; provided however, that the Superintendent may
+
+grant a parent’s or guardian’s request for student enrollment in a different
+
+school operated by the New Union District based on individual student
+
+circumstances and the Superintendent’s determination of the school’s capacity
+
+to serve the child. Additionally, the Superintendent may adjust student
+
+attendance locations to respond to unforeseen circumstances, such as facilities
+
+failures.
+
+FINANCES
+
+
+$ 	. The total proposed budget,
+
+
+20	$	.”
+
+
+
+
+
+Indebtedness, Including Capital Debt. The New Union District shall assume
+
+all indebtedness that may exist on June 30, 2027, including capital debt and
+
+including both principal and interest, of the Forming Districts.
+
+
+Operating
+
+Fund Surpluses.  The New Union District shall assume all operating surpluses,
+
+deficits, and fund balances of the Forming Districts that may exist at the close
+
+of business on June 30, 2027.
+
+(c) The New Union District shall apply any reserve fund for the
+
+ fund’s specific purpose, if identified, unless otherwise determined through
+
+appropriate legal procedures.
+
+Transfer of Debt and Funds. The Forming
+
+Districts shall transfer the debt and funds specified in this Article to the New
+
+Union District on or before June 30, 2027 in accordance with procedures and
+
+timelines established by the New Union District Board.
+
+REAL AND PERSONAL PROPERTY
+
+Transfer of Property to the New Union District. No later
+
+than June 30, 2027, the Forming Districts shall convey to the New Union
+
+District, for the sum of one dollar and other good and valuable consideration,
+
+and subject to the encumbrances of record, all of their school-related real and
+
+personal property, including all land, buildings, and contents.
+
+
+Subsequent Sale of Real Property to Town in which it is Located, in Any Year
+
+in the Future.  Subject to any provision of law relating to duties of the New
+
+Union District and to the sale of buildings in this Title or any other Title of the
+
+Vermont Statutes Annotated, if the New Union District Board determines, in
+
+its discretion, that the real property, including land and buildings, conveyed to
+
+it by one or more of the Forming Districts will not be used for direct delivery
+
+of education in at least one grade or for any other purpose related to operation
+
+of the New Union District, then the New Union District shall offer for sale
+
+such real property to the town in which the real property is located, for the sum
+
+of one dollar, subject to all encumbrances of record, the assumption or
+
+payment of all outstanding bonds and notes, and the repayment of any school
+
+construction aid or grants required by Vermont law.  The conveyance of any of
+
+the above school properties shall be conditioned upon the town owning and
+
+using the real property for community and public purposes for a minimum of
+
+five years. If the town elects to sell the real property prior to five years of
+
+
+
+
+ownership, then the town shall compensate the New Union District for all
+
+capital improvements and renovations initiated after July 1, 2027 and prior to
+
+the sale to the town. If a town elects not to acquire ownership of such real
+
+property, then the New Union District shall sell the property pursuant to
+
+Vermont statutes and upon such terms and conditions as established by the
+
+New Union District Board.
+
+
+Subsequent Sale of Real Property Conveyed by Forming District that was a
+
+Union School District, in Any Year in the Future. Notwithstanding Paragraph
+
+
+
+
+(b) of this section, and to the sale of buildings in Title 16 or any other Title, if
+
+the New Union District Board determines, in its discretion, that the real
+
+property, including land and buildings, conveyed to it by a Forming District
+
+that was a union school district on June 30, 2027, will not be used for direct
+
+delivery of education in at least one grade or for any other purpose related to
+
+operation of the New Union District, then the New Union District shall sell the
+
+property pursuant to Vermont statutes and upon such terms and conditions as
+
+are established by the New Union District Board.
+
+TRANSPORTATION, EMPLOYEES, AND
+
+CONTRACTS IN ACADEMIC YEAR 2027–2028
+
+In academic year 2027–2028, the New
+
+Union District shall provide for the transportation of students, assignment of
+
+staff, and implementation of curriculum in a manner that is consistent with the
+
+contracts, collective bargaining agreements, and provisions of law that are in
+
+effect during that academic year.
+
+The New Union District,
+
+through its Board, shall comply with 16 V.S.A. Chapter 53, subchapter 3,
+
+regarding recognition of the representatives of employees of the respective
+
+Forming Districts, as the representatives of the employees of the New Union
+
+District, and shall commence negotiations pursuant to 16 V.S.A. Chapter 57
+
+for teachers and 21 V.S.A. Chapter 22 for other employees. In the absence of
+
+new collective bargaining agreements on July 1, 2027, the New Union District
+
+shall comply with the pre-existing master agreements pursuant to 16 V.S.A.
+
+Chapter 53, subchapter 3.
+
+The New
+
+Union District shall honor all individual employment contracts that are in place
+
+in the Forming Districts on June 30, 2027 until their respective termination
+
+dates; provided, however, that if a Forming District enters into the contract on
+
+or after May 1, 2025, then this paragraph shall apply only if the contract
+
+expires on or before July 1, 2029.
+
+TRANSITIONAL
+
+BOARD
+
+
+(a)  Creation of Transitional Board; Term of Existence.  Until the voters of
+
+the New Union District elect the members of the initial Board of Directors as
+
+set forth in section 711 of this Title, and those members are sworn in and
+
+assume their duties, the individuals serving on December 15, 2025 on the
+
+Boards of the Forming Districts identified in section 2 of this Title, including
+
+the board of any Forming District that is a union school district on that date,
+
+shall designate one of their members to serve on a transitional board of
+
+directors for the New Union District (“Transitional Board”). The Transitional
+
+Board shall be comprised of the designee from each Forming District.
+
+(b) Initial Meeting of Transitional Board. The Superintendent of the
+
+supervisory union of which a majority of the Forming Districts are members
+
+shall convene the first meeting of the Transitional Board to occur no later than
+
+21	January 10, 2026. The agenda for this first meeting of the Transitional Board
+
+
+
+
+shall include the election by the Transitional Board members of one of their
+
+members to serve as Chair of the Transitional Board; and One of their
+
+members to serve as Clerk of the Transitional Board.
+
+(c) Purpose and Authority of Transitional Board. During the period of its
+
+existence, the Transitional Board shall serve as the New Union District’s
+
+school board and shall perform all functions required of, and have all authority
+
+granted to the Transitional Board in this chapter and the New Union District
+
+Board in this title and otherwise by law.
+
+(d) Specific Duties of Transitional Board. In addition to any
+
+responsibilities of the New Union District Board that can, should, or must be
+
+performed before the initial members of that Board are elected and assume
+
+office, the Transitional Board shall perform the following functions:
+
+(1) First Draft of Proposed Budget: Prepare a draft of the proposed
+
+Fiscal Year 2028 budget of the New Union District, which the Transitional
+
+Board shall provide to the New Union District Board for consideration at the
+
+first meeting of the New Union District Board.
+
+(2) Selection of short list of superintendent candidates.
+
+(3) With respect to the transitional board’s duties in this section, the
+
+transitional board shall have the assistance of the Agency of Education,
+
+including dedicated resources to be paid by transitional funds set aside by the
+
+Agency for these purposes.
+
+
+
+
+§ 711. VOTE TO ELECT INITIAL MEMBERS OF THE UNION SCHOOL
+
+DISTRICT BOARD
+
+Representation on New Union District
+
+Board. The New Union District Board shall be composed of five individuals
+
+elected from the district. The members shall be elected pursuant to
+
+proportionate voting districts. Petitions for candidates for initial school district
+
+board membership shall be submitted on the same timeline and in the same
+
+manner as candidates for the General Assembly. Elections for school board
+
+shall be held on General Election Day 2026. Each New Union District Board
+
+member shall serve for a period of four (4) years or until his or her successor is
+
+elected and qualified, as required by Vermont law.
+
+Swearing-In and Assumption of Duties. Within 14 days after the
+
+initial Board members are elected, the Transitional Board shall provide for a
+
+meeting of the initial board members.  Prior to the date of the meeting, newly
+
+elected members shall be sworn in by a town clerk within the boundaries of the
+
+District and shall assume office upon being sworn in.
+
+At the first meeting of initial members of the
+
+New Union District Board:
+
+(1) The members shall elect a Chair of the Board and Clerk of the
+
+Board.
+
+(2) The members of the former Transitional Board shall present the draft
+
+Fiscal Year 2028 budget to the New Union District Board together with any
+
+supporting data or other documentation.
+
+(3) The members of the former Transitional Board shall present a
+
+summary of hiring actions and recommendations for the position of
+
+superintendent for the District.
+
+
+
+
+
+
+PREPARATION AND PRESENTATION OF PROPOSED FISCAL
+YEAR 2028 BUDGET
+between the hours of 	, at which time the polls will
+
+open, and 	, at which time the polls will close, upon
+
+
+education of resident students in grades 	through  	
+
+
+one or more schools offering instruction in grades 	through
+
+ 	. 
+
+
+agreement approved by the State Board of Education on the 	day
+
+of 	, 20 	, which is on file in the office of
+
+To elect a total of 	(_) member(s) to serve as initial
+
+
+(a) 	[Insert number] Board Member[s] to serve until the second
+
+
+
+
+(b) 	[Insert number] Board Member[s] to serve until the third
+
+
+(c) 	[Insert number] Board Member[s] to serve until the fourth
+
+.  Pursuant to
+
+the provisions of Title 16 chapter 133, the New Union District Board shall
+
+consider and adopt a proposed Fiscal Year 2028 budget to, based on the
+
+anticipated funding for Fiscal Year 2028, provide for the operations of the
+
+district.
+
+§ 713. CERTIFICATION OF VOTES; DESIGNATION OF DISTRICT AS
+
+UNION SCHOOL DISTRICT; RECORDING BY SECRETARY OF
+
+STATE
+
+Not later than 30 days following the passage of this
+
+Act, the Secretary shall designate each of the New Union Districts 
+as a union school district. The Secretary shall certify that
+
+designation and send the certification together with a copy of this Act 
+to the Secretary of State, who shall record the
+
+certification.
+
+(d) When the Secretary of State records the certification of the Secretary of
+
+Education, the union school district shall be a body politic and corporate with
+
+the powers incident to a municipal corporation, shall be known by the name or
+
+number given in the recorded certification, by that name or number may sue
+
+and be sued, and may hold and convey real and personal property for the use of
+
+the union school district. The recorded certification shall be notice to all
+
+parties of the formation of the union school district with all the powers incident
+
+to such a district as provided in this title.
+
+(e) The Secretary of State shall file a certified copy of the recorded
+
+certification with the clerk of each member district of a new union elementary
+
+
+
+
+or union high school district and with the town clerk of each town within a new
+
+unified union school district. The Secretary of State shall file the certified
+
+copies not later than 14 days after the date on which the Secretary of Education
+
+certifies the existence of the union school district to the Secretary of State.
+
+Filing a certified copy with each clerk shall be prima facie evidence of full
+
+compliance with the requirements for the formation of a union school district
+
+as set forth in this subchapter.
+
+8	* * *
+
+COMMENCEMENT OF OPERATIONS
+
+
+meeting.
+
+(B) Adopt Robert’s or other rules of order, which shall govern the
+
+The New Union District, through its
+
+Board, has and shall exercise all of the authority that is necessary for it to
+
+prepare for full educational operations beginning on July 1, 2027. On or
+
+before June 30, 2027, the New Union District Board shall perform all planning,
+
+transitional, and other related duties necessary to begin operations of the New
+
+Union District on July 1, 2027, including preparing for and negotiating
+
+contractual agreements, and transacting any other lawful business that comes
+
+before the Board, provided however, that the exercise of such authority by the
+
+New Union District shall not be construed to limit or alter the authority or
+
+responsibilities of each Forming District, which shall remain responsible for
+
+providing for the education of its resident students until July 1, 2027.
+
+16	***
+
+19	***
+
+Sec. 15. 16 V.S.A. § 564 is added to read:
+
+§ 564. SCHOOL ADVISORY COMMITTEES
+
+
+
+
+(a) Each school district shall establish a local school advisory committee
+
+for each school. These committees shall have membership from parents,
+
+community members and students to represent the gender, racial, and
+
+socioeconomic diversity of the school community, and shall serve in an
+
+advisory role to the school administration.
+
+(b) Building level principals will administer the application and
+
+membership process for the school advisory committees. School advisory
+
+committees shall provide input to the school board on equitable budgeting
+
+parameters and feedback on the proposed school district budget each year.
+
+(c) A school advisory committee shall, through the administration of the
+
+building level principal, direct a designated portion of the funding allocated to
+
+the school it represents. Annually, the school board shall determine the
+
+amount that each school advisory committee will have authority to direct,
+
+which shall be equitable with respect to school size or school budget size.
+
+Before funds are expended, the school board shall approve the proposed plan
+
+developed by the school advisory committee.
+
+Sec. 16. 16 V.S.A. § 821 is amended to read:
+
+§ 821. School district to maintain public elementary schools or pay tuition
+
+(a) Each school district shall maintain one or more approved schools within
+
+the district in which elementary education for its resident students in
+
+kindergarten through grade six is provided 
+(b) A school board shall adopt a policy on intra-district grade K–8 choice
+
+and update the policy as appropriate. The policy shall state whether and to
+
+what extent resident students in elementary grades can choose a school
+
+operated by the school district other than the school designated by the district
+
+ for the student’s town of residence.
+
+
+Sec. 17. 16 V.S.A. § 822 is amended to read:
+
+§ 822. SCHOOL DISTRICT TO MAINTAIN PUBLIC HIGH SCHOOLS OR
+
+PAY TUITION; SCHOOL CHOICE SCHOOLS
+
+(a) Each school district shall maintain one or more approved high schools
+
+in which high school education is provided for its resident students unless:
+
+A school board shall designate at least one public or independent school
+
+that operates grades 9–12 to receive incoming students. This school shall be
+
+known as a School Choice School. The school board is not required to
+
+designate an independent school if it instead designates one or more public
+
+schools. If the School Choice School(s) designated by the district is an
+
+independent school, it shall first be certified by the Agency of Education as
+
+meeting School Choice School requirements in 16 V.S.A. 166. Any such
+
+designation shall be for a period of five years.
+
+(1) After reviewing the portfolio of school options for grades 9–12 in
+
+the district, the school board shall adopt a policy on grade 9–12 school choice
+
+and update the policy as appropriate. The policy shall take into consideration
+
+historic patterns of attendance, capacity of schools, and attendance and
+
+geographic needs of the district, along with student interest for specialized
+
+educational programming. The policy shall state a number of resident students
+
+in grades 9–12 that can participate in school choice, which shall be no less than
+
+10% of the number of resident students in grades 9–12 for a given year.
+
+(2) If the district will operate one or more of its public schools as a
+
+school choice school, then the school board shall annually announce the
+
+capacity for incoming students to attend each such school(s).
+
+
+
+
+1
+
+(c) Lottery
+
+Subject to the provisions of subsection (a)(1) of this
+
+section, if more than the allowable number of students wish to participate in
+
+school choice, then the district shall use a nondiscriminatory lottery system for
+
+determining which students may participate in school choice.
+
+Subject to the provisions of subsection
+
+(a)(2) of this section, if more than the allowable number of students wish to
+
+transfer to a school choice school operated by the district, then the district shall
+
+use a nondiscriminatory lottery system for determining which students may
+
+transfer to the school choice school.
+
+
+
+
+(A) the district shall give preference to the school choice request of a
+
+student whose request to participate in school choice was denied in a prior
+
+year;
+
+(B) the district shall give preference to siblings of students who are
+
+currently enrolled in the school choice school;
+
+(C) the district shall give preference to students who reside closer to
+
+the school choice school than a different school operated by the district.
+
+Sec. 18. REPEALS
+
+16 V.S.A. § 822a (public high school choice) and 16 V.S.A. § 823
+
+(elementary tuition) are repealed on July 1, 2027.
+
+Sec. 19. 16 V.S.A. § 824 is amended to read:
+
+PAYMENT TO SCHOOL CHOICE
+
+SCHOOLS
+
+(a)  Payment for high school students attending a school choice
+
+school that is an independent school as defined in section 166 of this title shall
+
+be paid by the Agency of
+
+Education in an amount equal to the weighted base education amount per
+
+student as described in section 4001 of this title.  The Agency of Education
+
+shall establish rules to govern the schedule and procedures for such payments.
+
+
+Sec. 20. 16 V.S.A. § 1071 is amended to read:
+
+§ 1071. SCHOOL YEAR AND SCHOOL DAY
+
+(a) Minimum number of days. Except as provided in this section, each
+
+public school shall be maintained and operated for:
+
+(1) At least 175 180 student attendance days in each school year. For
+
+purposes of this section, a majority of students enrolled in a school must be
+
+recorded on the school roll as in attendance on any day counted as a student
+
+attendance day.
+
+(2) At least five teacher in-service education days, during which time
+
+activities shall be conducted without students present in order to increase the
+
+competency of the staff, improve the curriculum of the school, enable teachers
+
+to attend State educational meetings, or disseminate student progress
+
+information to parents or the community.
+
+(b)  Hours of operation.  Within the minimum set by the State Board
+
+Agency of Education, the school board shall fix the number of hours that shall
+
+constitute a school day, subject to change upon the order of the State Board.
+
+(c) Unanticipated closings. When a public school is closed for cause
+
+beyond the control of the school board, it may petition the State Board Agency
+
+of Education for a waiver of the requirements of this section.  The petition
+
+
+
+
+shall be filed with the 
+Agency on a form provided by the Agency. If
+
+the petition is approved and a waiver granted, the school district shall be
+
+deemed to have satisfied the requirements of this section. 
+The Secretary shall establish a single
+
+statewide calendar. The calendar shall be published before May 1 of each year
+
+for the following school year. The calendar shall include student attendance
+
+days, periods of vacation, holidays, and teacher in-service education days and
+
+shall comply with subsection (a) of this section. 
+
+(f) Additional days. Nothing in this section prohibits a school from
+
+scheduling additional days for student attendance or teacher in-service
+
+
+
+
+education. However, those days shall not conflict with any applicable school
+
+calendar.
+
+(g) Upon application of one or more school districts, after approval by the
+
+voters of each such district, the State Board Agency may grant a waiver of the
+
+requirements of subsection (a) of this section if it is satisfied that equivalent
+
+educational programming will be maintained or improved. The waiver may be
+
+granted for any purpose, including the conservation of energy.
+
+Sec. 21. 16 V.S.A. § 1121 is amended to read:
+
+§ 1121. ATTENDANCE BY CHILDREN OF SCHOOL AGE REQUIRED
+
+A person having the control of a child between the ages of six five and 16
+
+years shall cause the child to attend a public school, an approved or recognized
+
+independent school, an approved education program, or a home study program
+
+for the full number of days for which that school is held, unless the child:
+
+(1) is mentally or physically unable so to attend; or
+
+(2) has completed the tenth grade; or
+
+(3) is excused by the superintendent or a majority of the school directors
+
+as provided in this chapter; or
+
+(4) is enrolled in and attending a postsecondary school, as defined in
+
+subdivision 176(b)(1) of this title, which is approved or accredited in Vermont
+
+or another state.
+
+* * * State Funding of Public Education * * *
+
+
+
+
+Sec. 22. TRANSITION YEAR ONE FUNDING
+
+In Fiscal Year 2026, each school district shall receive the funding approved
+
+by its electorate pursuant to 16 V.S.A. Ch 133.
+
+Sec. 23. TRANSITION YEAR TWO FUNDING
+
+In Fiscal Year 2027, each school district shall receive an amount equal to
+
+the funding received in Fiscal Year 2026, multiplied by 3 percent. Payments
+
+shall be made consistent with 16 V.S.A. § 4011.
+
+Sec. 24. 16 V.S.A. chapter 133 is amended to read:
+
+CHAPTER 133. STATE FUNDING OF PUBLIC EDUCATION
+
+Subchapter 1. General Provisions
+
+§ 4000. STATEMENT OF POLICY
+
+(a) The intent of this chapter is to make educational opportunity available
+
+to each student in each town on substantially equal terms, in accordance with
+
+the Vermont Constitution and the Vermont Supreme Court decision of
+
+15	February 5, 1997, Brigham v. State of Vermont.
+
+(b) [Repealed.]
+
+§ 4001. DEFINITIONS
+
+As used in this chapter:
+
+(1) “Average daily membership” of a school district or, 
+in any year means:
+
+
+
+
+(A) The full-time equivalent enrollment of students, as defined by the
+
+Agency by rule, who are legal residents of the district or
+
+municipality attending a school owned and operated by the district, 
+during the annual census period.  The census period
+
+consists of the 11th day through the 30th day of the school year in which
+
+school is actually in session.
+
+(B) The full-time equivalent enrollment in the year before the last
+
+census period, of any State-placed students as defined in subdivision 11(a)(28)
+
+of this title.  
+A school district that is
+
+receiving the full amount, as defined by the Agency by rule, of the
+
+student’s education costs under subsection 2950(a) of this title shall not count
+
+the student for purposes of determining average daily membership.  A State-
+
+placed student who is counted in average daily membership shall be counted as
+
+a student for the purposes of determining weighted student count.
+
+(C) The full-time equivalent enrollment for each prekindergarten
+
+child as follows: If a child is enrolled in 10 or more hours of prekindergarten
+
+
+
+
+education per week or receives 10 or more hours of essential early education
+
+services per week, the child shall be counted as one full-time equivalent pupil.
+
+If a child is enrolled in six or more but fewer than 10 hours of prekindergarten
+
+education per week or if a child receives fewer than 10 hours of essential early
+
+education services per week, the child shall be counted as a percentage of one
+
+full-time equivalent pupil, calculated as one multiplied by the number of hours
+
+per week divided by ten. A child enrolled in prekindergarten education for
+
+fewer than six hours per week shall not be included in the district’s average
+
+daily membership. There is no limit on the total number of children who may
+
+be enrolled in prekindergarten education or who receive essential early
+
+education services.
+
+(2) “Equalized grand list” has the same meaning that equalized
+
+education property tax grand list has in 32 V.S.A. chapter 135.
+
+14	(3), (4), (5) [Repealed.]
+
+
+
+(7) “Long-term membership” of a school district in any school year
+
+means the:
+
+(A) average of the district’s average daily membership, excluding
+
+full-time equivalent enrollment of State-placed students, over two school years,
+
+the latter of which is the current school year, plus
+
+(B) full-time equivalent enrollment of State-placed students for the
+
+most recent of the two years.
+
+(8) [Repealed.]
+
+(9) “Public school” means an elementary school or secondary school for
+
+which the governing board is publicly elected. A public school may maintain
+
+evening or summer school for its students and it shall be considered a public
+
+school.
+
+(10) “School district” means 
+a union school district
+
+(11)  “School year” means a year beginning on July 1 and ending on the
+
+following June 30.
+
+(12) “Weighted long-term membership” of a school district in any
+
+school year means the long-term membership adjusted pursuant to section
+
+4010 of this title.
+
+(13) Categorical base amount” means a number
+
+used to calculate categorical grants awarded under this title that is equal to
+
+$6,800.00 per equalized pupil, adjusted as required under section 4011 of this
+
+title.
+
+
+
+(15) “Prekindergarten child” means a three- or four-year-old child who
+
+is enrolled in a prekindergarten program offered by or through a school district
+
+pursuant to rules adopted under section 829 of this title or who is receiving
+
+essential early education services offered pursuant to section 2956 of this title.
+
+Prekindergarten child also means a five-year-old child who otherwise meets
+
+the terms of this definition if that child is not yet eligible for or enrolled in
+
+kindergarten.
+
+
+
+
+(16) “Base amount” means a per pupil amount of $13,200.00 in fiscal
+
+year 2025, which shall be adjusted for inflation annually on or before
+
+3	November 15 by the Secretary of Education. As used in this subdivision,
+
+ “adjusted for inflation” means adjusting the base dollar amount by the most
+
+recent New England Economic Project cumulative price index, as of
+
+6	November 15, for state and local government purchases of goods and services,
+
+from fiscal year 2025 through the fiscal year for which the amount is being
+
+determined.
+
+(17) “Foundation formula amount” means the base amount multiplied
+
+by the school district’s weighted long-term membership as determined under
+
+11	16 V.S.A. § 4010.
+
+§ 4002. PAYMENT; ALLOCATION
+
+(a) State and federal funds appropriated for services delivered by the
+
+school district and payable through the Agency shall be paid
+
+to the order of the school district and administered in
+
+accordance with the plan adopted under subdivision 261a(4) of this title.
+
+Funding for special education services under section 2969 of this title shall be
+
+paid to the school districts in accordance with that section.
+
+(b) The Secretary shall notify the superintendent or chief executive officer
+
+of each school district in writing of federal or State funds
+
+disbursed to school districts.
+
+
+
+
+§ 4003. CONDITIONS
+
+(a) No school district shall receive any aid under this chapter unless that
+
+school district complies with the provisions of law relative to teachers’
+
+salaries, appointment of superintendents, detailed financial reports to the
+
+Agency, and any other requirements of law.
+
+(b) Aid to any district shall not be denied unless the district unreasonably
+
+refuses to comply with the requirements of law. Any school district denied aid
+
+by reason of the provisions of this section shall have the right within 60 days
+
+from the date of such denial to appeal to the Superior Court in the county
+
+where the district is situated.
+
+Subchapter 2. General State Funding of Public Education
+
+§ 4010. DETERMINATION OF WEIGHTED LONG-TERM MEMBERSHIP
+
+
+(a) Definitions. As used in this section:
+
+(1) “EL pupils” means pupils described under section 4013 of this title.
+
+(2) “FPL” means the Federal Poverty Level.
+
+(3) “Weighting categories” means the categories listed under subsection
+
+(b) of this section.
+
+(b) Determination of average daily membership and weighting categories.
+
+On or before the first day of December during each school year, the Secretary
+
+shall determine the average daily membership, as defined in subdivision
+
+
+
+
+4001(1) of this title, of each school district for the current school year and shall
+
+perform the following tasks.
+
+(1) Using average daily membership, list for each school district the
+
+number of:
+
+(A) pupils in prekindergarten;
+
+(B) pupils in kindergarten through grade five;
+
+(C) pupils in grades six through eight;
+
+(D) pupils in grades nine through 12;
+
+(E) pupils whose families are at or below 185 percent of FPL, using
+
+the highest number of pupils in the district:
+
+(i) that meet this definition under the universal income declaration
+
+form; or
+
+(ii) who are directly certified for free and reduced-priced meals;
+
+and
+
+(F) EL pupils.
+
+(2)(A) Identify all school districts that have low population density,
+
+measured by the number of persons per square mile residing within the land
+
+area of the geographic boundaries of the district as of July 1 of the year of
+
+determination, equaling:
+
+(i) fewer than 36 persons per square mile;
+
+
+
+
+(ii) 36 or more persons per square mile but fewer than 55 persons
+
+per square mile; or
+
+(iii) 55 or more persons per square mile but fewer than 100
+
+persons per square mile.
+
+(B) Population density data shall be based on the best available U.S.
+
+Census data as provided to the Agency of Education by the Vermont Center for
+
+Geographic Information.
+
+(C) Using average daily membership, list for each school district that
+
+has low population density the number of pupils in each of subdivisions
+
+(A)(i)–(iii) of this subdivision (2).
+
+For each school
+
+district, identify any school with less than 450 students.
+
+(B) As used in subdivision (A) of this subdivision (3), “average two-
+
+year enrollment” means the average enrollment of the two most recently
+
+completed school years, and “enrollment” means the number of pupils who are
+
+enrolled in a school operated by the district on October 1. A pupil shall be
+
+counted as one whether the pupil is enrolled as a full-time or part-time student.
+
+
+
+
+(C) Using average two-year enrollment, list for each school district
+
+that has a small school the number of pupils in each of subdivisions (A)(i)–(ii)
+
+of this subdivision (3).
+
+(c) Reporting on weighting categories to the Agency of Education. Each
+
+school district shall annually report to the Agency of Education by a date
+
+established by the Agency the information needed in order for the Agency to
+
+compute the weighting categories under subsection (b) of this section for that
+
+district
+
+
+(d) Determination of weighted long-term membership. For each weighting
+
+category except the small schools weighting category under subdivision (b)(3)
+
+of this section, the Secretary shall compute the weighting count by using the
+
+long-term membership, as defined in subdivision 4001(7) of this title, in that
+
+category.
+
+
+
+
+
+(2) The Secretary shall next apply a weight for pupils whose family is at
+
+or below 185 percent of FPL. Each pupil included in long-term membership
+
+whose family is at or below 185 percent of FPL shall receive an additional
+
+weighting amount of 1.03 0.75.
+
+(3) The Secretary shall next apply a weight for EL pupils. Each EL
+
+pupil included in long-term membership shall receive an additional weighting
+
+13	amount of 2.49 1.50.
+
+(4) The Secretary shall then apply a weight for pupils living in low
+
+population density school districts. Each pupil included in long-term
+
+membership residing in a low population density school district, measured by
+
+the number of persons per square mile residing within the land area of the
+
+geographic boundaries of the district as of July 1 of the year of determination,
+
+shall receive an additional weighting amount of:
+
+(A) 0.15, where the number of persons per square mile is fewer than
+
+36 persons;
+
+
+
+
+(B) 0.12, where the number of persons per square mile is 36 or more
+
+but fewer than 55 persons; or
+
+(C) 0.07, where the number of persons per square mile is 55 or more
+
+but fewer than 100.
+
+(5) The Secretary shall lastly apply a weight for pupils who attend a an
+
+eligible small school
+ Then, for each pupil listed under
+
+subdivision (b)(3)(C) of this section (pupils who attend small schools):
+
+
+each student in an eligible small school will receive a weighted FTE that is the
+
+result of applying the following formula to each eligible small school: (-
+
+0.158*natural log of (school enrollment)) +0.964 with the result rounded to
+
+two decimal places.
+
+
+
+
+(6) A school district’s weighted long-term membership shall equal long-
+
+term membership plus the cumulation of the weights assigned by the Secretary
+
+under this subsection.
+
+
+
+(g) Guidelines. The Secretary shall develop guidelines to enable clear and
+
+consistent identification of pupils to be counted under this section.
+
+(h) Updates to weights, base education amount and transportation
+
+payments. On or before January 1, 2027 and on or before January 1 of every
+
+fifth year thereafter, the Agency of Education and the Joint Fiscal Office shall
+
+calculate, based on their consensus view, updates to the weights and the base
+
+education amount to account for cost changes underlying those weights and the
+
+cost of providing a high quality education and shall issue a written report on
+
+
+
+
+their work to the House and Senate Committees on Education, the House
+
+Committee on Ways and Means, and the Senate Committee on Finance. The
+
+General Assembly shall update the weights under this section, the base
+
+education amount, and transportation reimbursement categorical aid amounts
+
+under section 4016 of this title not less than every five years and the
+
+implementation date for the updated weights and transportation reimbursement
+
+categorical aid amount shall be delayed by a year in order to provide school
+
+districts with time to prepare their budgets. Updates to the weights may include
+
+recalibration, recalculation, adding or eliminating weights, or any combination
+
+of these actions.
+
+(i) On or before July 1, 2026 the Secretary shall, through rule-making,
+
+establish eligibility criteria for students that may receive the small school
+
+adjustment as defined in d(5) of this subsection.
+
+§ 4011. EDUCATION PAYMENTS
+
+(a) Annually, the General Assembly shall appropriate funds to pay for
+
+the foundation formula amount as defined under
+
+subdivision 4001(17) of this title and the State guarantee as defined under
+
+32 V.S.A. § 5401(19), and a portion of the categorical aid
+
+amount for each adult education student as
+
+defined in this subsection (f).
+
+
+
+
+(b) For each fiscal year, the categorical aid base amount shall be
+
+$6,800.00, increased by the most recent New England Economic Project
+
+Cumulative Price Index, as of November 15, for state and local government
+
+purchases of goods and services from fiscal year 2005 through the fiscal year
+
+for which the amount is being determined, plus an additional one-tenth of one
+
+percent.
+
+(c) Annually, each school district shall receive an education spending
+
+its foundation formula amount as defined under subdivision 4001(17)
+
+of this title and its State guarantee, if applicable to that school district, as
+
+defined under 32 V.S.A. § 5401(19) for support of education costs. 
+No school district shall
+
+receive more than the amount under this subsection.
+
+(d) [Repealed.]
+
+(e) [Repealed.]
+
+(f) Annually, the Secretary shall pay to a local adult education and literacy
+
+provider, as defined in section 942 of this title, that provides an adult education
+
+and secondary credential program an amount equal to 26 percent of the
+
+categorical aid amount for each student who completes the diagnostic portions
+
+of the program, based on an average of the previous two years; 40 percent of
+
+the payment required under this subsection shall be from State funds
+
+
+
+
+appropriated from the Education Fund and 60 percent of the payment required
+
+under this subsection shall be from State funds appropriated from the General
+
+Fund.
+
+
+(h) The Secretary shall make all payments required by subchapter 5 of
+
+chapter 23 of this title.
+
+(i) Annually, on or before October 1, the Secretary shall send to school
+
+boards for inclusion in town reports and publish on the Agency website the
+
+following information:
+
+(2) a statewide comparison of student-teacher ratios among schools that
+
+are similar in number of students and number of grades.
+
+20	* * *
+
+21	§ 4013. ENGLISH LEARNERS SERVICES; STATE AID
+
+
+
+
+(a) Definitions. As used in this section:
+
+(1) “Applicable federal laws” mean the Equal Education Opportunities
+
+Act (20 U.S.C. § 1703), Title VI of the Civil Rights Act of 1964 (42 U.S.C.
+
+§§ 2000d et seq.), and Titles I and III of the Elementary and Secondary
+
+Education Act of 1965 (20 U.S.C. §§ 6301 et seq. and 20 U.S.C. §§ 6801 et
+
+seq.), each as amended.
+
+(2) “EL services” mean instructional and support personnel and services
+
+that are required under applicable federal laws for EL students and their
+
+families.
+
+(3) “EL students” or “EL pupils” mean students who have been
+
+identified as English learners through the screening protocols required under
+
+12	20 U.S.C. § 6823(b)(2).
+
+(b) Required EL services. Each school district shall:
+
+(1) screen students to determine which students are EL students and
+
+therefore qualify for EL services;
+
+(2) assess and monitor the progress of EL students;
+
+(3) provide EL services;
+
+(4) budget sufficient resources through a combination of State and
+
+federal categorical aid and local education spending to provide EL services;
+
+
+
+
+(5) report expenditures on EL services annually to the Agency of
+
+Education through the financial reporting system as required by the Agency;
+
+and
+
+(6) evaluate the effectiveness of their EL programs and report
+
+educational outcomes of EL students as required by the Agency and applicable
+
+federal laws.
+
+(c) Agency of Education support and quality assurance. The Agency of
+
+Education shall:
+
+(1) provide guidance and program support to all school districts with EL
+
+students as required under applicable federal law, including:
+
+(A) professional development resources for EL teachers and support
+
+personnel; and
+
+(B) information on best practices and nationally recognized language
+
+development standards; and
+
+(2) prescribe, collect, and analyze financial and student outcome data
+
+from school districts to ensure that districts are providing high-quality EL
+
+services and expending sufficient resources to provide these services.
+
+
+§ 4016. REIMBURSEMENT FOR TRANSPORTATION EXPENDITURES
+
+(a) A school district or supervisory union that incurs allowable
+
+transportation expenditures shall receive a transportation reimbursement grant
+
+each year. The grant shall be equal to 50 100 percent of allowable
+
+transportation expenditures
+Transportation grants paid under this section shall be
+
+paid from the Education Fund and shall be added to education spending
+
+payment receipts paid under section 4011 of this title.
+
+(b) In this section, “allowable transportation expenditures” means the costs
+
+of transporting students to and from school for regular classroom services and
+
+shall not include expenditures for transporting students participating in
+
+curricular activities that take place off the school grounds or for transporting
+
+students participating in cocurricular activities. The Agency of
+
+Education, through rule-making, shall further define allowable transportation
+
+expenditures 
+
+(c) A district may apply and the Secretary may pay
+
+for extraordinary transportation expenditures incurred due to geographic or
+
+other conditions 
+
+The Agency of Education shall define extraordinary transportation
+
+
+
+
+expenditures by rule. The total amount of base year extraordinary
+
+transportation grant expenditures shall be $250,000.00 for fiscal year 1997,
+
+increased each year thereafter by the annual price index for state and local
+
+government purchases of goods and services. Extraordinary transportation
+
+expenditures shall not be paid out of the funds appropriated under subsection
+
+(b) of this section for other transportation expenditures.  Grants paid under this
+
+section shall be paid from the Education Fund and shall be added to education
+
+spending payment receipts paid under section 4011 of this title.
+
+9	* * *
+
+§ 4025.  EDUCATION FUND
+
+(a) The Education Fund is established to comprise the following:
+
+(1) all revenue paid to the State from the statewide education tax on
+
+nonhomestead and homestead property under 32 V.S.A. chapter 135, which
+
+shall not include any revenue raised from the school district spending tax under
+
+15	32 V.S.A. § 5402(f);
+
+16	* * *
+
+(b) Monies in the Education Fund shall be used for the following:
+
+(1) To make payments to school districts for the
+
+support of education in accordance with the provisions of section 4028 of this
+
+title, other provisions of this chapter, the provisions of 32 V.S.A. chapter 135,
+
+
+
+
+and the Flexible Pathways Initiative established by section 941 of this title, but
+
+excluding adult education and literacy programs under section 945 of this title.
+
+(2) To cover the cost of fund auditing, accounting, revenue collection,
+
+and of short-term borrowing to meet fund cash flow requirements.
+
+
+15	* * *
+
+§ 4026. EDUCATION FUND BUDGET STABILIZATION RESERVE;
+
+CREATION AND PURPOSE
+
+18	* * *
+
+If the
+
+stabilization reserve established under this section should in any fiscal year be
+
+less than 5.0 percent of the prior fiscal year’s appropriations from the
+
+Education Fund, as defined in subsection (b) of this section, the Joint Fiscal
+
+Committee shall review the information provided pursuant to 32 V.S.A.
+
+§ 5402b and provide the General Assembly its recommendations for change
+
+necessary to restore the stabilization reserve to the statutory level provided in
+
+subsection (b) of this section.
+
+§ 4027. EDUCATION FUND TRANSFER AMOUNTS
+
+
+(b) Annually, on or before June 1, each superintendent shall report to the
+
+Agency, on a form prescribed by the Secretary, 
+
+the final adopted budget approved by the district school board.
+
+
+
+
+§ 4028. FUND PAYMENTS TO SCHOOL DISTRICTS
+
+(a) On or before September 10, December 10, and April 30 of each school
+
+year, one-third of the 
+base amount as determined under subdivision 4001(17) of this title and
+
+any State guarantee as defined under 32 V.S.A. § 5401(19) shall become due
+
+to school districts,
+
+(b) Payments made for special education under chapter 101 of this title, for
+
+career technical education under chapter 37 of this title, and for other aid and
+
+categorical grants paid for support of education shall also be from the
+
+Education Fund.
+
+
+(d) The Joint Fiscal Office shall prepare a fiscal note for any legislation
+
+that requires a supervisory union or school district to perform any action with
+
+an associated cost, but does not provide money or a funding mechanism for
+
+
+
+
+fulfilling that obligation.  Any fiscal note prepared under this subsection shall
+
+be completed not later than the date that the legislation is considered for a vote
+
+in the first committee to which it is referred.
+
+4	* * *
+
+§ 4030. DATA SUBMISSION; CORRECTIONS
+
+(a) Upon discovering an error or change in data submitted to the Secretary
+
+for the purpose of determining payments to or from the Education Fund, a
+
+school district shall report the error or change to the Secretary as soon as
+
+possible. Any budget deficit or surplus due to the error or change shall be
+
+carried forward to the following year.
+
+(b) The Secretary shall use data submitted on or before January 15 prior to
+
+the fiscal year that begins the following July 1 in order to calculate the
+
+amounts due each school district for any fiscal year for transportation aid due
+
+under section 4016 of this title.
+
+(c) The Secretary shall use data corrections regarding approved district
+
+budget amounts submitted on or before June 15 prior to the fiscal year that
+
+begins the following July 1, in order to calculate the education payments due
+
+under section 4011 of this title. However, the Secretary may use data
+
+submitted after June 15 and prior to July 15 due to unusual or exceptional
+
+circumstances as determined by the Secretary.
+
+
+
+
+(d) The Secretary shall not use data corrected due to an error submitted
+
+following the deadlines to recalculate weighted long-term membership under
+
+section 4010 of this title. The Secretary shall not adjust average daily
+
+membership counts if an error or change is reported more than three fiscal
+
+years following the date that the original data was due.
+
+(e) The State Board Agency of Education may adopt rules as necessary to
+
+implement the provisions of this section.
+
+§ 4031. UNORGANIZED TOWNS AND GORES
+
+* * * Education Property Tax Rate Formula * * *
+
+Sec. 25. 32 V.S.A. § 5401 is amended to read:
+
+§ 5401. DEFINITIONS
+
+As used in this chapter:
+
+21	* * *
+
+
+
+
+(7) “Homestead”:
+
+(A) “Homestead” means the principal dwelling and parcel of land
+
+surrounding the dwelling, owned and occupied by a resident individual as the
+
+individual’s domicile or owned and fully leased on April 1, provided the
+
+property is not leased for more than 182 days out of the calendar year or, for
+
+purposes of the renter credit under subsection 6066(b) of this title, is rented
+
+and occupied by a resident individual as the individual’s domicile.
+
+8	* * *
+
+9	(8) “Education spending” means “education spending” as defined in 16
+
+10	V.S.A. § 4001(6).
+
+11	* * *
+
+(12) “Excess spending” means:
+
+
+(13)(A) “Education property tax spending adjustment” means the greater
+
+
+16	* * *
+
+
+ (18) “School district-approved spending” means the spending that a
+
+school district approves in excess of the foundation formula amount as defined
+
+in 16 V.S.A. § 4001(17) for the fiscal year and for which no existing revenue
+
+source is available, provided that no school district shall approve spending in
+
+ excess of [X] percent of the school district’s foundation formula amount for
+
+the fiscal year.
+
+ (19) “State guarantee” means an amount equal to the school district’s
+
+ State guarantee rate multiplied by the school district’s approved spending.
+
+ (20) “State guarantee rate” means one minus the ratio of the anticipated
+
+aggregate equalized education property tax grand list of the municipal
+
+members of a school district per the average daily membership as defined
+
+under 16 V.S.A. § 4001(1) of that school district in the following fiscal year to
+
+the anticipated aggregate equalized education property tax grand list of the
+
+municipal members of a school district per the average daily membership as
+
+defined under 16 V.S.A. § 4001(1) of that school district that is the median in
+
+
+
+
+the State in the following fiscal year, provided that no school district’s State
+
+guarantee rate under this subdivision shall be less than zero.
+
+Sec. 26. 32 V.S.A. § 5402 is amended to read:
+
+§ 5402. EDUCATION PROPERTY TAX LIABILITY
+
+(a) A statewide education tax is imposed on all nonhomestead and
+
+homestead property at 
+a rate sufficient to raise the
+
+foundation formula amount for the school district for the fiscal year after
+
+accounting for the forecasted available revenues and the State guarantee. It is
+
+the intention of the General Assembly that the statewide education tax rate
+
+under this section shall be adopted for each fiscal year by act of the General
+
+Assembly.
+
+(b) The statewide education tax shall be calculated as follows:
+
+
+
+
+(1) The Commissioner of Taxes shall determine for each municipality
+
+the education tax rate under subsection (a) of this section divided by the
+
+municipality’s most recent common level
+
+of appraisal. The legislative body in each
+
+municipality shall then bill each property taxpayer at the 
+rate determined by the Commissioner under this subdivision,
+
+multiplied by the education property tax grand list value of the property,
+
+properly classified as homestead or nonhomestead property and without regard
+
+to any other tax classification of the property. Statewide education property tax
+
+bills shall show the tax due and the calculation of the rate determined under
+
+subsection (a) of this section, divided by 
+
+the municipality’s most recent common level of appraisal
+, multiplied by the current grand list value of the property to be
+
+taxed. Statewide education property tax bills shall also include language
+
+provided by the Commissioner pursuant to subsection 5405(g) of this title.
+
+(2) Taxes assessed under this section shall be assessed and collected in
+
+the same manner as taxes assessed under chapter 133 of this title with no tax
+
+classification other than as homestead or nonhomestead property; provided,
+
+however, that the tax levied under this chapter shall be billed to each taxpayer
+
+by the municipality in a manner that clearly indicates the tax is separate from
+
+any other tax assessed and collected under chapter 133, including an
+
+
+
+
+itemization of the separate taxes due. The bill may be on a single sheet of
+
+paper with the statewide education tax and other taxes presented separately and
+
+side by side.
+
+(3) If a district has not voted a budget by June 30, an interim 
+
+education tax shall be imposed at the base rate determined under subdivision
+
+(a)(2) subsection (a) of this section, divided by the number resulting from
+
+dividing the municipality’s most recent common level of appraisal by the
+
+Within 30 days after a budget is adopted and
+
+the deadline for reconsideration has passed, the Commissioner shall determine
+
+the municipality’s tax rate as required under subdivision (1) of this
+
+subsection.
+
+(c)(1) The treasurer of each municipality shall by December 1 of the year
+
+in which the tax is levied and on June 1 of the following year pay to the State
+
+Treasurer for deposit in the Education Fund one-half of the municipality’s
+
+statewide 
+
+education tax, as determined under subdivision (b)(1) of this section.
+
+(2) The Secretary of Education shall determine each municipality’s net
+
+education tax payment 
+to the State based on grand list information received by the Secretary
+
+not later than the March 15 prior to the June 1 net payment. Payment shall be
+
+
+
+
+accompanied by a return prescribed by the Secretary of Education. Each
+
+municipality may retain 0.225 of one percent of the total education tax
+
+collected, only upon timely remittance of net payment to the State Treasurer or
+
+to the applicable school district or districts. 
+
+(f)(1) A school district spending tax is imposed on all homestead and
+
+nonhomestead property in each member municipality of a school district that
+
+approves spending pursuant to subdivision 5401(18) of this chapter. The
+
+Commissioner of Taxes shall determine the school district spending tax rate for
+
+each school district at a rate sufficient to raise the amount of the school
+
+ district’s approved spending as certified by the Secretary of Education after
+
+
+
+
+accounting for any State guarantee due to the school district. The legislative
+
+body in each member municipality shall then bill each property taxpayer at the
+
+rate determined by the Commissioner under this subsection multiplied by the
+
+current grand list value of the property to be taxed. The bill shall show the tax
+
+due and the calculation of the rate.
+
+(2) The school district spending tax assessed under this subsection shall
+
+be assessed and collected in the same manner as taxes assessed under chapter
+
+133 of this title with no tax classification other than as homestead or
+
+nonhomestead property; provided, however, that the tax levied under this
+
+chapter shall be billed to each taxpayer by the municipality in a manner that
+
+clearly indicates the tax is separate from any other tax assessed and collected
+
+under chapter 133 and the statewide education property tax under this section,
+
+including an itemization of the separate taxes due. The bill may be on a single
+
+sheet of paper with the school district spending tax, the statewide education
+
+tax, and other taxes presented separately and side by side.
+
+(3) The treasurer of each municipality shall pay all revenue raised from
+
+the school district spending tax imposed under this subsection to its school
+
+district pursuant to 16 V.S.A. § 426.
+
+
+
+
+Sec. 27. 32 V.S.A. § 5402b is amended to read:
+
+§ 5402b. BASE AMOUNT; STATEWIDE EDUCATION TAX YIELDS
+
+RATE;
+
+RECOMMENDATION OF THE COMMISSIONER
+
+(a) Annually, not later than December 1, the Commissioner of Taxes, after
+
+consultation with the Secretary of Education, the Secretary of Administration,
+
+and the Joint Fiscal Office, shall estimate the base amount as defined in 32
+
+V.S.A. § 4001(16) for the following fiscal year and calculate and recommend a
+
+statewide education property tax rate pursuant
+
+to subdivision 5402(a)(1) of this chapter for the following fiscal year. In
+
+making these calculations, the Commissioner shall assume the statutory
+
+reserves are maintained at five percent pursuant to 16 V.S.A. § 4026:
+
+
+(c) Annually, on or before December 1, the Joint Fiscal Office shall
+
+prepare and publish an official, annotated copy of the Education Fund Outlook.
+
+The Emergency Board shall review the Outlook at its meetings. As used in this
+
+section, “Education Fund Outlook” means the projected revenues and expenses
+
+associated with the Education Fund for the following fiscal year, including
+
+projections of different categories of educational expenses and costs.
+
+(d) Along with the recommendations made under this section, the
+
+Commissioner shall include the range of per pupil school district-approved
+
+spending between all districts in the State for the previous year.
+
+19	* * *
+
+
+
+
+* * * Conforming Revisions; Statewide Property Tax Rate * * *
+
+Sec. 28. 32 V.S.A. § 5404a(b)(1) is amended to read:
+
+(b)(1) An agreement affecting the education property tax grand list defined
+
+under subsection (a) of this section shall reduce the municipality’s education
+
+property tax liability under this chapter for the duration of the agreement or
+
+exemption without extension or renewal, and for a maximum of 10 years. A
+
+municipality’s property tax liability under this chapter shall be reduced by any
+
+difference between the amount of the education property taxes collected on the
+
+subject property and the amount of education property taxes that would have
+
+been collected on such property if its fair market value were taxed at the
+
+equalized nonhomestead rate for the tax year.
+
+12	* * *
+
+Sec. 29. 32 V.S.A. § 5405(g) is amended to read:
+
+(g) The Commissioner shall provide to municipalities for the front of
+
+property tax bills the district homestead property tax rate before equalization,
+
+and the calculation process that
+
+creates the equalized tax rate. The
+
+Commissioner shall further provide to municipalities for the back of property
+
+tax bills an explanation of the common level of appraisal, including its origin
+
+and purpose.
+
+
+
+
+Sec. 30. 32 V.S.A. § 5410(g) is amended to read:
+
+
+* * * Statewide Property Tax Credit Repeal; Homestead Exemption Created *
+
+8	* *
+
+Sec. 31. 32 V.S.A. § 5400 is amended to read:
+
+§ 5400. STATUTORY PURPOSES
+
+11	* * *
+
+(c) The statutory purpose of the exemption for qualified housing in
+
+subdivision 5404a(a)(6) of this title is to ensure that taxes on this rent-
+
+restricted housing provided to Vermonters of low and moderate income are
+
+more equivalent to property taxed using the State as a homestead rate property
+
+and to adjust the costs of investment in rent-restricted housing to reflect more
+
+accurately the revenue potential of such property.
+
+18	* * *
+
+(j) The statutory purpose of the homestead property tax exemption in
+
+subdivision 6066(a)(1) of this title is to reduce the property tax liability for
+
+Vermont households with low and moderate household income.
+
+
+
+
+Sec. 32. 32 V.S.A. chapter 154 is amended to read:
+
+Chapter 154: Homestead Property Tax Exemption, Municipal Property Tax
+
+Credit, and Renter Credit
+
+§ 6061. DEFINITIONS
+
+As used in this chapter
+ Municipal property tax credit” means a credit of the prior
+
+tax year’s municipal property tax liability 
+as authorized under section subdivision 6066(a)(2) of this 
+chapter.
+
+10	* * *
+
+(9) “Taxable year” means the calendar year preceding the year in which
+
+the claim is filed.
+
+(10) [Repealed.]
+
+(11) “Housesite” means that portion of a homestead, as defined under
+
+subdivision 5401(7) of this title but not under subdivision 5401(7)(G) of this
+
+title, that includes as much of the land owned by the claimant surrounding the
+
+dwelling as is reasonably necessary for use of the dwelling as a home, but in
+
+no event more than two acres per dwelling unit, and, in the case of multiple
+
+
+
+
+dwelling units, not more than two acres per dwelling unit up to a maximum of
+
+10 acres per parcel.
+
+(12) “Claim year” means the year in which a claim is filed under this
+
+chapter.
+
+(13) “Homestead” means a homestead as defined under subdivision
+
+5401(7) of this title, but not under subdivision 5401(7)(G) of this title, and
+
+declared on or before October 15 in accordance with section 5410 of this title.
+
+
+12	* * *
+
+ (21) “Homestead property tax exemption” means a reduction in the
+
+amount of housesite value subject to the statewide education tax and the school
+
+district spending tax in the claim year as authorized under sections 6066 and
+
+6066a of this chapter.
+
+§ 6062. NUMBER AND IDENTITY OF CLAIMANTS; APPORTIONMENT
+
+18	* * *
+
+(d) Whenever a housesite is an integral part of a larger unit such as a farm or
+
+a multi-purpose or multi-dwelling building, property taxes paid shall be that
+
+percentage of the total property tax as the value of the housesite is to the total
+
+
+
+
+value. Upon a claimant’s request, the listers shall certify to the claimant the
+
+value of his or her the claimant’s homestead and housesite.
+
+3	* * *
+
+§ 6063. CLAIM AS PERSONAL; CREDIT AND EXEMPTION AMOUNT
+
+AT TIME OF
+
+TRANSFER
+
+(a) The right to file a claim under this chapter is personal to the claimant
+
+and shall not survive the claimant’s death, but the right may be
+
+exercised on behalf of a claimant by the claimant’s legal guardian or
+
+attorney-in-fact. When a claimant dies after having filed a timely claim, the
+
+municipal property tax credit and the homestead exemption amount shall be
+
+applied to the property tax liability of the claimant’s estate
+
+as provided in section 6066a of this title.
+
+(b) In case of sale or transfer of a residence, after April 1 of the claim year:
+
+(1) any municipal property tax credit amount related to that
+
+residence shall be allocated to the transferor at closing unless the parties
+
+otherwise agree;
+
+(2) any homestead property tax exemption related to that residence
+
+ based on the transferor’s age and household income under subdivision
+
+6066(a)(1) of this chapter shall cease to be in effect upon transfer; and
+
+
+
+
+(3) a transferee who is eligible to declare the residence as a homestead
+
+but for the requirement to own the residence on April 1 of the claim year shall,
+
+notwithstanding subdivision 5401(7) and subsection 5410(b) of this title, be
+
+eligible to apply for a homestead property tax exemption in the claim year
+
+when the transfer occurs by filing with the Commissioner of Taxes a
+
+homestead declaration pursuant to section 5410 of this title and a claim for
+
+exemption on or before the due date prescribed under section 6068 of this
+
+chapter.
+
+9	* * *
+
+§ 6065. FORMS; TABLES; NOTICES
+
+(a) In administering this chapter, the Commissioner shall provide suitable
+
+claim forms with tables of allowable claims, instructions, and worksheets for
+
+claiming a homestead property tax exemption and municipal property tax
+
+credit.
+
+(b) Prior to June 1, the Commissioner shall also prepare and supply to each
+
+town in the State notices describing the homestead property tax exemption and
+
+municipal property tax credit for inclusion in property tax bills. The notice
+
+shall be in simple, plain language and shall explain how to file for a homestead
+
+property tax exemption and a municipal property tax credit, where to find
+
+assistance filing for a credit, an exemption, or both, and any other related
+
+information as determined by the Commissioner. The notice shall direct
+
+
+
+
+taxpayers to a resource where they can find versions of the notice translated
+
+into the five most common non-English languages in the State. A town shall
+
+include such notice in each tax bill and notice of delinquent taxes that it mails
+
+to taxpayers who own in that town a residential property, without regard for
+
+whether the property was declared a homestead pursuant to subdivision
+
+5401(7) of this title.
+
+(c) Notwithstanding the provisions of subsection (b) of this section, towns
+
+that use envelopes or mailers not able to accommodate notices describing the
+
+homestead property tax exemption and municipal property tax credit may
+
+distribute such notices in an alternative manner.
+
+§ 6066. COMPUTATION OF HOMESTEAD PROPERTY TAX
+
+EXEMPTION, MUNICIPAL
+
+PROPERTY TAX CREDIT, AND RENTER CREDIT
+
+
+(1) An eligible claimant who owned the homestead on April 1 of the claim
+
+year shall be entitled to a homestead property tax exemption in the claim year
+
+in an amount determined as follows:
+
+(A) for a claimant whose household income is equal to or less than
+
+$47,000.00 and who is 65 years of age or more as of December 31 of the year
+
+ in which the claimant’s household income is taken into account, the exemption
+
+ shall be 70 percent of the claimant’s housesite value, provided the exempt
+
+amount of housesite value shall not exceed $200,000.00;
+
+(B) for a claimant whose household income is equal to or less than
+
+$47,000.00 and who is less than 65 years of age as of December 31 of the year
+
+ in which the claimant’s household income is taken into account, the exemption
+
+ shall be 60 percent of the claimant’s housesite value, provided the exempt
+
+amount of housesite value shall not exceed $200,000.00;
+
+(C) for a claimant whose household income is greater than
+
+$47,000.00 but equal to or less than $90,000.00, the exemption shall be 50
+
+ percent of the claimant’s housesite value, provided the exempt amount of
+
+housesite value shall not exceed $200,000.00;
+
+(D) for a claimant whose household income is greater than
+
+$90,000.00 but equal to or less than $125,000.00, the exemption shall be 10
+
+
+
+
+ percent of the claimant’s housesite value, provided the exempt amount of
+
+housesite value shall not exceed $50,000.00; and
+
+(E) for a claimant whose household income is greater than
+
+$125,000.00, no amount of housesite value shall be exempt under this section.
+
+(3)(2) A An eligible claimant who owned the homestead on April 1 of
+
+the claim year and whose household income does not exceed $47,000.00 shall
+
+also be entitled to an additional a credit amount from against the claimant’s
+
+municipal taxes for the upcoming fiscal year that is equal to the amount by
+
+which the municipal property taxes for the municipal fiscal year that began in
+
+the taxable year upon the claimant’s housesite exceeds a percentage of the
+
+claimant’s household income for the taxable year as follows:
+
+If household income (rounded	then the taxpayer is entitled to
+
+credit for the
+
+to the nearest dollar) is:	reduced property tax in excess of
+
+this percent
+
+of that income:
+
+17	$0.00 — 9,999.00	1.50
+
+18	$10,000.00 — 47,000.00	3.00
+
+
+to the nearest dollar) is:	credit for the reduced property tax
+
+in excess of this percent of that
+
+income:
+
+9	$0.00 — 9,999.00	0.5
+
+10	$10,000.00 — 24,999.00	1.5
+
+11	$25,000.00 — 47,000.00	2.0
+
+(5)(3) In no event shall the homestead property tax exemption provided
+
+for in subdivision (1) of this subsection reduce the housesite value below zero.
+
+In no event shall the municipal property tax credit provided for in subdivision
+
+(3) or (4) (2) of this subsection exceed the amount of the reduced municipal
+
+property tax. 
+
+(b)(1) An eligible claimant who rented the homestead shall be entitled to
+
+a credit for the taxable year in an amount not to exceed $2,500.00, to be
+
+calculated as follows:
+
+
+
+
+1	* * *
+
+(c) To be eligible for an adjustment exemption or credit under this chapter,
+
+the claimant:
+
+(1) must have been domiciled in this State during the entire taxable year;
+
+(2) may not be a person claimed as a dependent by any taxpayer under
+
+the federal Internal Revenue Code during the taxable year; and
+
+(3) in the case of a renter, shall have rented property for at least six
+
+calendar months, which need not be consecutive, during the taxable year.
+
+(d) The owner of a mobile home that is sited on a lot not owned by the
+
+homeowner may include an amount determined under subdivision 6061(7) of
+
+this title as allocable rent paid on the lot with the amount of property taxes paid
+
+by the homeowner on the home for the purpose of computation of credits the
+
+municipal property tax credit under subdivision (a)(3)(2) of this section, unless
+
+the homeowner has included in the claim an amount of property tax on
+
+common subsection (e) of this section.
+
+(e) Property taxes paid by a cooperative, not including a mobile home park
+
+cooperative, allocable to property used as a homestead shall be attributable to
+
+the co-op member for the purpose of computing the credit of property tax
+
+liability of the co-op member under this section. Property owned by a
+
+cooperative declared as a homestead may only include the homestead and a pro
+
+rata share of any common land owned or leased by the cooperative, not to
+
+
+
+
+exceed the two-acre housesite limitation. The share of the cooperative’s
+
+assessed value attributable to the housesite shall be determined by the
+
+cooperative and specified annually in a notice to the co-op member. Property
+
+taxes paid by a mobile home park cooperative, allocable to property used as a
+
+housesite, shall be attributed to the owner of the housesite for the purpose of
+
+computing the credit of property tax liability of the housesite owner under this
+
+section. Property owned by the mobile home park cooperative and declared as
+
+a housesite may only include common property of the cooperative contiguous
+
+with at least one mobile home lot in the park, not to exceed the two-acre
+
+housesite limitation. The share attributable to any mobile home lot shall be
+
+determined by the cooperative and specified in the cooperative agreement. A
+
+co-op member who is the housesite owner shall be entitled to a property tax
+
+credit in an amount determined by multiplying the property taxes allocated
+
+under this subsection by the percentage of the exemption for which the
+
+ housesite owner’s household income qualifies under subdivision (a)(1) of this
+
+section.
+
+(f) [Repealed.]
+
+(g) Notwithstanding subsection (d) of this section, if the land surrounding a
+
+homestead is owned by a nonprofit corporation or community land trust with
+
+tax exempt status under 26 U.S.C. § 501(c)(3), the homeowner may include an
+
+allocated amount as property tax paid on the land with the amount of property
+
+
+
+
+taxes paid by the homeowner on the home for the purposes of computation of
+
+the credit property tax liability under this section. The allocated amount shall
+
+be determined by the nonprofit corporation or community land trust on a
+
+proportional basis. The nonprofit corporation or community land trust shall
+
+provide to that homeowner, by January 31, a certificate specifying the
+
+allocated amount. The certificate shall indicate the proportion of total property
+
+tax on the parcel that was assessed for municipal property tax and for statewide
+
+property tax and the proportion of total value of the parcel. A homeowner
+
+under this subsection shall be entitled to a property tax credit in an amount
+
+determined by multiplying the property taxes allocated under this subsection
+
+ by the percentage of the exemption for which the homeowner’s household
+
+income qualifies under subdivision (a)(1) of this section.
+
+(h) A homestead owner shall be entitled to an additional property tax credit
+
+equal to one percent of the amount of income tax refund that the claimant
+
+elects to allocate to payment of statewide education property tax
+
+under section 6068 of this title.
+
+(i) The homestead property tax exemption and the municipal
+
+property tax credit under subsection (a) of this section shall be calculated
+
+without regard to any exemption under subdivision 3802(11) of this title.
+
+
+
+
+§ 6066a. DETERMINATION OF HOMESTEAD PROPERTY TAX
+
+EXEMPTION AND
+
+MUNICIPAL PROPERTY TAX CREDIT
+
+(a) Annually, the Commissioner shall determine the homestead property tax
+
+exemption and the municipal property tax credit amount under section 6066 of
+
+this title, related to a homestead owned by the claimant, based on the prior
+
+taxable year’s income and for the municipal property tax credit, crediting
+
+property taxes paid in the prior year, and for the homestead property tax
+
+exemption, exempting the housesite value in the claim year. The
+
+Commissioner shall notify the municipality in which the housesite is located of
+
+the amount of the homestead property tax exemption and municipal property
+
+tax credit for the claimant for property tax liabilities on a monthly
+
+basis. The municipal property tax credit of a claimant who was assessed
+
+property tax by a town that revised the dates of its fiscal year, however, is the
+
+excess of the property tax that was assessed in the last 12 months of the revised
+
+fiscal year, over the adjusted property tax of the claimant for the revised fiscal
+
+year, as determined under section 6066 of this title, related to a homestead
+
+owned by the claimant.
+
+(b) The Commissioner shall include in the total homestead property tax
+
+exemption and municipal property tax credit amount determined under
+
+subsection (a) of this section, for credit to the taxpayer for homestead statewide
+
+
+
+
+education property tax and school district spending tax liabilities, any income
+
+tax overpayment remaining after allocation under section 3112 of this title and
+
+setoff under section 5934 of this title, which the taxpayer has directed to be
+
+used for payment of property taxes.
+
+(c) The Commissioner shall notify the municipality of any claim and refund
+
+amounts unresolved by November 1 at the time of final resolution, including
+
+adjudication, if any; provided, however, that towns will not be notified of any
+
+additional credit amounts after November 1 of the claim year, and such
+
+amounts shall be paid to the claimant by the Commissioner.
+
+(d) [Repealed.]
+
+(e) At the time of notice to the municipality, the Commissioner shall notify
+
+the taxpayer of the homestead property tax exemption amount
+
+determined under subdivision 6066(a)(1) of this title, 
+municipal property
+
+credit amount due the homestead owner under subdivision
+
+6066(a)(2) of this title, the amount of income tax refund, if any, allocated to
+
+payment of statewide education property tax liabilities, and any
+
+late-claim reduction amount.
+
+(f)(1) For taxpayers and amounts stated in the notice to towns on or before
+
+20	July 1, municipalities shall create and send to taxpayers a property
+
+21	tax bill, instead of the bill required under subdivision 5402(b)(1) of this title,
+
+
+
+
+providing the total amount allocated to payment of statewide
+
+education property tax liabilities and notice of the balance due. Municipalities
+
+shall apply the amount of the homestead property tax exemption allocated
+
+under this chapter to current year property taxes in equal amounts to each of
+
+the taxpayers’ property tax installments that include education taxes and the
+
+amount of the municipal property tax credit allocated under this chapter to
+
+current year municipal property taxes in equal amounts to each of the
+
+ taxpayers’ property tax installments that include municipal taxes.
+
+Notwithstanding section 4772 of this title, if a town issues a corrected bill as a
+
+result of the notice sent by the Commissioner under subsection (a) of this
+
+section, issuance of the corrected new bill does not extend the time for
+
+payment of the original bill nor relieve the taxpayer of any interest or penalties
+
+associated with the original bill. If the corrected bill is less than the original
+
+bill, and there are also no unpaid current year taxes, interest, or penalties, and
+
+no past year delinquent taxes or penalties and interest charges, any
+
+overpayment shall be reflected on the corrected tax bill and refunded to the
+
+taxpayer.
+
+(2) For homestead property tax exemption and municipal property tax
+
+credit amounts for which municipalities receive notice after November 1,
+
+municipalities shall issue a new homestead property tax bill with notice to the
+
+
+
+
+taxpayer of the total amount allocated to payment of homestead property tax
+
+liabilities and notice of the balance due.
+
+(3) The homestead property tax exemption and municipal property tax
+
+credit amount determined for the taxpayer shall be allocated first to current
+
+year housesite value and property tax on the homestead parcel, next to current-
+
+year homestead parcel penalties and interest, next to any prior year homestead
+
+parcel penalties and interest, and last to any prior year housesite value and
+
+property tax on the homestead parcel. No homestead property tax exemption or
+
+municipal credit shall be allocated to a housesite value or property tax liability
+
+for any year after the year for which the claim or refund allocation was filed.
+
+No municipal tax-reduction incentive for early payment of taxes shall apply to
+
+any amount allocated to the property tax bill under this chapter.
+
+(4) If the homestead property tax exemption or the municipal property
+
+tax credit amount as described in subsection (e) of this section exceeds the
+
+property tax, penalties, and interest due for the current and all prior years, the
+
+municipality shall refund the excess to the taxpayer, without interest, within 20
+
+days of the first date upon which taxes become due and payable or 20 days
+
+after notification of the exemption or credit amount by the Commissioner of
+
+Taxes, whichever is later.
+
+(g) The Commissioner of Taxes shall pay monthly to each municipality the
+
+amount of municipal property tax credit of which the municipality was last
+
+
+
+
+notified related to municipal property tax on homesteads within that
+
+municipality, as determined by the Commissioner of Taxes.
+
+§ 6067. CLAIM LIMITATIONS
+
+(a) Claimant. Only one individual per household per taxable year shall be
+
+entitled to a a homestead exemption claim, property tax credit claim, or both
+
+under this chapter.
+
+(b) Other states. An individual who received a homestead exemption or
+
+credit with respect to property taxes assessed by another state for the taxable
+
+year shall not be entitled to receive a credit under this chapter.
+
+(c) Dollar amount. No taxpayer claimant shall receive a renter credit under
+
+subsection 6066(b) of this title in excess of $2,500.00. No taxpayer claimant
+
+shall receive a municipal property tax credit under subdivision 6066(a)(3)(2) of
+
+this title greater than $2,400.00 
+
+§ 6068. APPLICATION AND TIME FOR FILING
+
+(a) A homestead property tax exemption or municipal property tax credit
+
+claim or request for allocation of an income tax refund to homestead statewide
+
+education property tax payment shall be filed with the Commissioner on or
+
+before the due date for filing the Vermont income tax return, without
+
+extension, and shall describe the school district in which the homestead
+
+property is located and shall particularly describe the homestead property for
+
+
+
+
+which the exemption or credit is sought, including the school
+
+parcel account number prescribed in subsection 5404(b) of this title. A renter
+
+credit claim shall be filed with the Commissioner on or before the due date for
+
+filing the Vermont income tax return, without extension.
+
+(b)(1) If the a claimant files a municipal property tax credit claim after
+
+6	October 15 but on or before March 15 of the following calendar year, the
+
+municipal property tax credit under this chapter:
+
+(1)(A) shall be reduced in amount by $150.00, but not below $0.00;
+
+(2)(B) shall be issued directly to the claimant; and
+
+(3)(C) shall not require the municipality where the claimant’s property is
+
+located to issue an adjusted homestead property tax bill.
+
+(2) If a claimant files a homestead property tax exemption claim under
+
+this chapter after October 15 but on or before March 15 of the following
+
+calendar year, the claimant shall pay a penalty of $150.00 and the municipality
+
+ where the claimant’s property is located shall not be required to issue an
+
+adjusted property tax bill.
+
+(c) No request for allocation of an income tax refund or for a renter credit
+
+claim may be made after October 15. No homestead property tax exemption or
+
+municipal property tax credit claim may be made after March 15 of the
+
+calendar year following the due date under subsection (a) of this section.
+
+21	* * *
+
+
+
+
+§ 6070. DISALLOWED CLAIMS
+
+A claim shall be disallowed if the claimant received title to his or her the
+
+ claimant’s homestead primarily for the purpose of receiving benefits under this
+
+chapter.
+
+§ 6071. EXCESSIVE AND FRAUDULENT CLAIMS
+
+(a) In any case in which it is determined under the provisions of this title
+
+that a claim is or was excessive and was filed with fraudulent intent, the claim
+
+shall be disallowed in full and the Commissioner may impose a penalty equal
+
+to the amount claimed. A disallowed claim may be recovered by assessment as
+
+income taxes are assessed. The assessment, including assessment of penalty,
+
+shall bear interest from the date the claim was credited against property tax or
+
+income tax or paid by the State until repaid by the claimant at the rate per
+
+annum established from time to time by the Commissioner pursuant to section
+
+3108 of this title. The claimant in that case, and any person who assisted in the
+
+preparation of filing of such excessive claim or supplied information upon
+
+which the excessive claim was prepared, with fraudulent intent, shall be fined
+
+not more than $1,000.00 or be imprisoned not more than one year, or both.
+
+(b) In any case in which it is determined that a claim is or was excessive, the
+
+Commissioner may impose a 10 percent penalty on such excess, and if the
+
+claim has been paid or credited against property tax or income tax otherwise
+
+payable, the municipal property tax credit or homestead exemption shall be
+
+
+
+
+reduced or canceled and the proper portion of any amount paid shall be
+
+similarly recovered by assessment as income taxes are assessed, and such
+
+assessment shall bear interest at the rate per annum established from time to
+
+time by the Commissioner pursuant to section 3108 of this title from the date
+
+of payment or, in the case of credit of a municipal property tax bill under
+
+section 6066a of this title, from December 1 of the year in which the claim is
+
+filed until refunded or paid.
+
+
+12	* * *
+
+§ 6073. RULES OF THE COMMISSIONER
+
+The Commissioner may, from time to time, adopt, amend, and
+
+withdraw rules interpreting and implementing this chapter.
+
+§ 6074. AMENDMENT OF CERTAIN CLAIMS
+
+At any time within three years after the date for filing claims under
+
+subsection 6068(a) of this chapter, a claimant who filed a claim by October 15
+
+19	may file to amend that claim with regard to housesite value, 
+
+ housesite municipal tax, and ownership percentage or to correct
+
+the amount of household income reported on that claim.
+
+
+
+
+* * * Conforming Revisions; Property Tax Credit Repeal * * *
+
+Sec. 33. 11 V.S.A. § 1608 is amended to read:
+
+§ 1608. ELIGIBILITY FOR PROPERTY TAX RELIEF
+
+Members of cooperative housing corporations shall be eligible to apply for
+
+and receive a homestead property tax adjustment exemption and municipal
+
+property tax credit under 32 V.S.A. § 6066, subject to the conditions of
+
+eligibility set forth therein.
+
+Sec. 34. 32 V.S.A. § 3102(j) is amended to read:
+
+(j) Tax bills prepared by a municipality under subdivision 5402(b)(1) of this
+
+title showing only the amount of total tax due shall not be considered
+
+confidential return information under this section. For the purposes of
+
+calculating credits the homestead property tax exemption and the municipal
+
+property tax credit under chapter 154 of this title, information provided by the
+
+Commissioner to a municipality under subsection 6066a(a) of this title and
+
+information provided by the municipality to a taxpayer under subsection
+
+6066a(f) shall be considered confidential return information under this section.
+
+Sec. 35. 32 V.S.A. § 3206(b) is amended to read:
+
+(b) As used in this section, “extraordinary relief” means a remedy that is
+
+within the power of the Commissioner to grant under this title
+or a remedy that makes changes to a taxpayer’s homestead property
+
+tax exemption, municipal property tax credit, or renter credit claim necessary
+
+to remedy the problem identified by the Taxpayer Advocate.
+
+* * * Education Fund Advisory Committee * * *
+
+Sec. 36. REPEAL; EDUCATION FUND ADVISORY COMMITTEE
+
+The following are repealed on July 1, 2025:
+
+(1) 32 V.S.A. § 5414 (Creation; Education Fund Advisory Committee).
+
+(2) 2024 Acts and Resolves No. 183, Sec. 12 (Education Fund Advisory
+
+Committee sunset).
+
+
+
+
